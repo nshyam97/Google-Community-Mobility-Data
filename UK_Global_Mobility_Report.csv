@@ -167,6 +167,8 @@ United Kingdom,,,,,2020-07-28,-26.0,-10.0,100.0,-42.0,-48.0,14.0
 United Kingdom,,,,,2020-07-29,-25.0,-10.0,107.0,-41.0,-48.0,13.0
 United Kingdom,,,,,2020-07-30,-23.0,-7.0,120.0,-41.0,-48.0,13.0
 United Kingdom,,,,,2020-07-31,-29.0,-11.0,120.0,-37.0,-48.0,11.0
+United Kingdom,,,,,2020-08-01,-36.0,-14.0,72.0,-30.0,-14.0,4.0
+United Kingdom,,,,,2020-08-02,-28.0,-15.0,93.0,-27.0,-9.0,2.0
 United Kingdom,Aberdeen City,,GB-ABE,,2020-02-15,-3.0,-4.0,-32.0,-4.0,-1.0,2.0
 United Kingdom,Aberdeen City,,GB-ABE,,2020-02-16,6.0,0.0,-13.0,4.0,2.0,-1.0
 United Kingdom,Aberdeen City,,GB-ABE,,2020-02-17,11.0,0.0,24.0,2.0,-10.0,1.0
@@ -335,6 +337,8 @@ United Kingdom,Aberdeen City,,GB-ABE,,2020-07-28,-43.0,-14.0,63.0,-41.0,-54.0,16
 United Kingdom,Aberdeen City,,GB-ABE,,2020-07-29,-44.0,-15.0,74.0,-37.0,-53.0,15.0
 United Kingdom,Aberdeen City,,GB-ABE,,2020-07-30,-40.0,-12.0,54.0,-46.0,-54.0,15.0
 United Kingdom,Aberdeen City,,GB-ABE,,2020-07-31,-41.0,-14.0,117.0,-39.0,-52.0,12.0
+United Kingdom,Aberdeen City,,GB-ABE,,2020-08-01,-50.0,-19.0,18.0,-36.0,-25.0,5.0
+United Kingdom,Aberdeen City,,GB-ABE,,2020-08-02,-43.0,-18.0,22.0,-36.0,-21.0,4.0
 United Kingdom,Aberdeenshire,,GB-ABD,,2020-02-15,-9.0,-4.0,-25.0,-5.0,-7.0,2.0
 United Kingdom,Aberdeenshire,,GB-ABD,,2020-02-16,1.0,-3.0,-6.0,1.0,-3.0,0.0
 United Kingdom,Aberdeenshire,,GB-ABD,,2020-02-17,6.0,4.0,28.0,1.0,-17.0,2.0
@@ -503,6 +507,8 @@ United Kingdom,Aberdeenshire,,GB-ABD,,2020-07-28,-23.0,-10.0,65.0,-36.0,-50.0,14
 United Kingdom,Aberdeenshire,,GB-ABD,,2020-07-29,-19.0,-11.0,97.0,-32.0,-50.0,14.0
 United Kingdom,Aberdeenshire,,GB-ABD,,2020-07-30,-11.0,-5.0,72.0,-25.0,-50.0,13.0
 United Kingdom,Aberdeenshire,,GB-ABD,,2020-07-31,-14.0,-8.0,122.0,-29.0,-48.0,10.0
+United Kingdom,Aberdeenshire,,GB-ABD,,2020-08-01,-25.0,-11.0,72.0,-16.0,-12.0,3.0
+United Kingdom,Aberdeenshire,,GB-ABD,,2020-08-02,-19.0,-15.0,65.0,-21.0,-8.0,2.0
 United Kingdom,Angus Council,,GB-ANS,,2020-02-15,-10.0,-8.0,-31.0,-15.0,-3.0,
 United Kingdom,Angus Council,,GB-ANS,,2020-02-16,4.0,-8.0,-22.0,2.0,-4.0,
 United Kingdom,Angus Council,,GB-ANS,,2020-02-17,13.0,-2.0,10.0,2.0,-17.0,3.0
@@ -671,6 +677,8 @@ United Kingdom,Angus Council,,GB-ANS,,2020-07-28,-8.0,4.0,,-15.0,-46.0,11.0
 United Kingdom,Angus Council,,GB-ANS,,2020-07-29,-5.0,-2.0,,-17.0,-44.0,10.0
 United Kingdom,Angus Council,,GB-ANS,,2020-07-30,-13.0,0.0,,-24.0,-46.0,12.0
 United Kingdom,Angus Council,,GB-ANS,,2020-07-31,3.0,-1.0,,-14.0,-44.0,8.0
+United Kingdom,Angus Council,,GB-ANS,,2020-08-01,-16.0,4.0,113.0,-6.0,-11.0,
+United Kingdom,Angus Council,,GB-ANS,,2020-08-02,4.0,-5.0,,-7.0,-10.0,
 United Kingdom,Antrim and Newtownabbey,,GB-ANN,,2020-02-15,-11.0,-6.0,-51.0,-12.0,-4.0,2.0
 United Kingdom,Antrim and Newtownabbey,,GB-ANN,,2020-02-16,-6.0,-3.0,-33.0,3.0,-1.0,
 United Kingdom,Antrim and Newtownabbey,,GB-ANN,,2020-02-17,8.0,-6.0,,10.0,-14.0,3.0
@@ -839,6 +847,8 @@ United Kingdom,Antrim and Newtownabbey,,GB-ANN,,2020-07-28,-11.0,-10.0,,-41.0,-4
 United Kingdom,Antrim and Newtownabbey,,GB-ANN,,2020-07-29,-8.0,-9.0,,-40.0,-43.0,12.0
 United Kingdom,Antrim and Newtownabbey,,GB-ANN,,2020-07-30,-11.0,-9.0,,-41.0,-43.0,13.0
 United Kingdom,Antrim and Newtownabbey,,GB-ANN,,2020-07-31,-19.0,-15.0,,-51.0,-42.0,11.0
+United Kingdom,Antrim and Newtownabbey,,GB-ANN,,2020-08-01,-20.0,-15.0,,-33.0,-6.0,3.0
+United Kingdom,Antrim and Newtownabbey,,GB-ANN,,2020-08-02,-16.0,-20.0,7.0,-43.0,-1.0,
 United Kingdom,Ards and North Down,,GB-AND,,2020-02-15,-10.0,-8.0,-32.0,-20.0,-5.0,2.0
 United Kingdom,Ards and North Down,,GB-AND,,2020-02-16,-2.0,-5.0,-10.0,-8.0,-3.0,
 United Kingdom,Ards and North Down,,GB-AND,,2020-02-17,3.0,-1.0,3.0,-11.0,-14.0,2.0
@@ -1007,6 +1017,8 @@ United Kingdom,Ards and North Down,,GB-AND,,2020-07-28,-11.0,-2.0,54.0,-48.0,-45
 United Kingdom,Ards and North Down,,GB-AND,,2020-07-29,-8.0,1.0,40.0,-46.0,-45.0,11.0
 United Kingdom,Ards and North Down,,GB-AND,,2020-07-30,-12.0,0.0,,-48.0,-45.0,13.0
 United Kingdom,Ards and North Down,,GB-AND,,2020-07-31,-16.0,3.0,71.0,-41.0,-42.0,11.0
+United Kingdom,Ards and North Down,,GB-AND,,2020-08-01,-21.0,0.0,48.0,-30.0,-5.0,3.0
+United Kingdom,Ards and North Down,,GB-AND,,2020-08-02,-17.0,-5.0,53.0,-12.0,-5.0,
 United Kingdom,Argyll and Bute Council,,GB-AGB,,2020-02-15,-11.0,-11.0,-21.0,-20.0,-2.0,
 United Kingdom,Argyll and Bute Council,,GB-AGB,,2020-02-16,12.0,0.0,20.0,-4.0,-2.0,
 United Kingdom,Argyll and Bute Council,,GB-AGB,,2020-02-17,11.0,4.0,29.0,17.0,1.0,1.0
@@ -1175,6 +1187,8 @@ United Kingdom,Argyll and Bute Council,,GB-AGB,,2020-07-28,9.0,7.0,,33.0,-43.0,1
 United Kingdom,Argyll and Bute Council,,GB-AGB,,2020-07-29,10.0,4.0,,49.0,-44.0,10.0
 United Kingdom,Argyll and Bute Council,,GB-AGB,,2020-07-30,0.0,2.0,111.0,10.0,-43.0,12.0
 United Kingdom,Argyll and Bute Council,,GB-AGB,,2020-07-31,1.0,2.0,,52.0,-40.0,9.0
+United Kingdom,Argyll and Bute Council,,GB-AGB,,2020-08-01,-2.0,8.0,188.0,68.0,-10.0,
+United Kingdom,Argyll and Bute Council,,GB-AGB,,2020-08-02,23.0,5.0,,80.0,-7.0,
 United Kingdom,"Armagh City, Banbridge and Craigavon",,GB-ABC,,2020-02-15,-11.0,-4.0,-45.0,-18.0,-4.0,2.0
 United Kingdom,"Armagh City, Banbridge and Craigavon",,GB-ABC,,2020-02-16,-5.0,-8.0,-33.0,-11.0,-1.0,1.0
 United Kingdom,"Armagh City, Banbridge and Craigavon",,GB-ABC,,2020-02-17,4.0,-1.0,4.0,-8.0,-15.0,3.0
@@ -1343,6 +1357,8 @@ United Kingdom,"Armagh City, Banbridge and Craigavon",,GB-ABC,,2020-07-28,-13.0,
 United Kingdom,"Armagh City, Banbridge and Craigavon",,GB-ABC,,2020-07-29,-13.0,-1.0,57.0,,-38.0,10.0
 United Kingdom,"Armagh City, Banbridge and Craigavon",,GB-ABC,,2020-07-30,-13.0,-4.0,39.0,,-38.0,11.0
 United Kingdom,"Armagh City, Banbridge and Craigavon",,GB-ABC,,2020-07-31,-20.0,-7.0,43.0,,-38.0,9.0
+United Kingdom,"Armagh City, Banbridge and Craigavon",,GB-ABC,,2020-08-01,-27.0,-11.0,14.0,,-5.0,1.0
+United Kingdom,"Armagh City, Banbridge and Craigavon",,GB-ABC,,2020-08-02,-21.0,-12.0,28.0,,-1.0,0.0
 United Kingdom,Bath and North East Somerset,,GB-BAS,,2020-02-15,-13.0,-10.0,-48.0,-10.0,1.0,3.0
 United Kingdom,Bath and North East Somerset,,GB-BAS,,2020-02-16,-2.0,-3.0,-26.0,2.0,-3.0,
 United Kingdom,Bath and North East Somerset,,GB-BAS,,2020-02-17,22.0,2.0,32.0,7.0,-9.0,1.0
@@ -1511,6 +1527,8 @@ United Kingdom,Bath and North East Somerset,,GB-BAS,,2020-07-28,-26.0,-18.0,109.
 United Kingdom,Bath and North East Somerset,,GB-BAS,,2020-07-29,-29.0,-19.0,113.0,-47.0,-56.0,15.0
 United Kingdom,Bath and North East Somerset,,GB-BAS,,2020-07-30,-23.0,-12.0,150.0,-43.0,-55.0,13.0
 United Kingdom,Bath and North East Somerset,,GB-BAS,,2020-07-31,-33.0,-17.0,99.0,-44.0,-55.0,12.0
+United Kingdom,Bath and North East Somerset,,GB-BAS,,2020-08-01,-38.0,-20.0,39.0,-34.0,-17.0,3.0
+United Kingdom,Bath and North East Somerset,,GB-BAS,,2020-08-02,-28.0,-19.0,76.0,-28.0,-20.0,
 United Kingdom,Bedford,,GB-BDF,,2020-02-15,-11.0,-4.0,-50.0,-11.0,-2.0,2.0
 United Kingdom,Bedford,,GB-BDF,,2020-02-16,-10.0,-6.0,-54.0,-32.0,-1.0,1.0
 United Kingdom,Bedford,,GB-BDF,,2020-02-17,9.0,2.0,,-5.0,-18.0,3.0
@@ -1679,6 +1697,8 @@ United Kingdom,Bedford,,GB-BDF,,2020-07-28,-22.0,-18.0,,-50.0,-48.0,15.0
 United Kingdom,Bedford,,GB-BDF,,2020-07-29,-22.0,-16.0,,-47.0,-47.0,14.0
 United Kingdom,Bedford,,GB-BDF,,2020-07-30,-20.0,-11.0,,-46.0,-48.0,13.0
 United Kingdom,Bedford,,GB-BDF,,2020-07-31,-28.0,-15.0,,-45.0,-48.0,12.0
+United Kingdom,Bedford,,GB-BDF,,2020-08-01,-36.0,-21.0,29.0,-35.0,-11.0,4.0
+United Kingdom,Bedford,,GB-BDF,,2020-08-02,-31.0,-20.0,53.0,-35.0,-3.0,2.0
 United Kingdom,Belfast,,GB-BFS,,2020-02-15,-9.0,-7.0,-35.0,-7.0,-3.0,2.0
 United Kingdom,Belfast,,GB-BFS,,2020-02-16,-1.0,-5.0,-21.0,1.0,2.0,1.0
 United Kingdom,Belfast,,GB-BFS,,2020-02-17,7.0,-6.0,-1.0,-3.0,-13.0,2.0
@@ -1847,6 +1867,8 @@ United Kingdom,Belfast,,GB-BFS,,2020-07-28,-22.0,-13.0,17.0,-45.0,-50.0,13.0
 United Kingdom,Belfast,,GB-BFS,,2020-07-29,-22.0,-13.0,26.0,-45.0,-50.0,12.0
 United Kingdom,Belfast,,GB-BFS,,2020-07-30,-24.0,-12.0,-4.0,-45.0,-50.0,13.0
 United Kingdom,Belfast,,GB-BFS,,2020-07-31,-28.0,-13.0,-3.0,-41.0,-48.0,11.0
+United Kingdom,Belfast,,GB-BFS,,2020-08-01,-31.0,-14.0,-3.0,-26.0,-12.0,3.0
+United Kingdom,Belfast,,GB-BFS,,2020-08-02,-24.0,-17.0,3.0,-27.0,-10.0,3.0
 United Kingdom,Blackburn with Darwen,,GB-BBD,,2020-02-15,-11.0,-7.0,,-20.0,-3.0,2.0
 United Kingdom,Blackburn with Darwen,,GB-BBD,,2020-02-16,-2.0,-3.0,,-2.0,4.0,
 United Kingdom,Blackburn with Darwen,,GB-BBD,,2020-02-17,4.0,0.0,,-1.0,-16.0,3.0
@@ -2015,6 +2037,8 @@ United Kingdom,Blackburn with Darwen,,GB-BBD,,2020-07-28,-26.0,-11.0,,-33.0,-38.
 United Kingdom,Blackburn with Darwen,,GB-BBD,,2020-07-29,-24.0,-9.0,,-26.0,-38.0,11.0
 United Kingdom,Blackburn with Darwen,,GB-BBD,,2020-07-30,-20.0,-4.0,,-31.0,-42.0,11.0
 United Kingdom,Blackburn with Darwen,,GB-BBD,,2020-07-31,-44.0,-21.0,,-27.0,-46.0,10.0
+United Kingdom,Blackburn with Darwen,,GB-BBD,,2020-08-01,-44.0,-25.0,,-24.0,-15.0,5.0
+United Kingdom,Blackburn with Darwen,,GB-BBD,,2020-08-02,-34.0,-19.0,,-18.0,-4.0,
 United Kingdom,Blackpool,,GB-BPL,,2020-02-15,-1.0,-4.0,4.0,-12.0,-1.0,2.0
 United Kingdom,Blackpool,,GB-BPL,,2020-02-16,21.0,0.0,42.0,3.0,2.0,1.0
 United Kingdom,Blackpool,,GB-BPL,,2020-02-17,21.0,1.0,,7.0,-14.0,2.0
@@ -2183,6 +2207,8 @@ United Kingdom,Blackpool,,GB-BPL,,2020-07-28,13.0,-2.0,,-4.0,-35.0,8.0
 United Kingdom,Blackpool,,GB-BPL,,2020-07-29,18.0,-3.0,,5.0,-34.0,8.0
 United Kingdom,Blackpool,,GB-BPL,,2020-07-30,18.0,1.0,,0.0,-36.0,8.0
 United Kingdom,Blackpool,,GB-BPL,,2020-07-31,26.0,0.0,,41.0,-36.0,7.0
+United Kingdom,Blackpool,,GB-BPL,,2020-08-01,8.0,-2.0,,28.0,-11.0,2.0
+United Kingdom,Blackpool,,GB-BPL,,2020-08-02,24.0,0.0,,35.0,-7.0,1.0
 United Kingdom,Blaenau Gwent,,GB-BGW,,2020-02-15,-22.0,-14.0,,-29.0,-4.0,
 United Kingdom,Blaenau Gwent,,GB-BGW,,2020-02-16,-17.0,-9.0,,,-7.0,
 United Kingdom,Blaenau Gwent,,GB-BGW,,2020-02-17,4.0,-5.0,,-16.0,-13.0,3.0
@@ -2351,6 +2377,8 @@ United Kingdom,Blaenau Gwent,,GB-BGW,,2020-07-28,-27.0,-6.0,,-18.0,-35.0,9.0
 United Kingdom,Blaenau Gwent,,GB-BGW,,2020-07-29,-25.0,-11.0,,-18.0,-35.0,9.0
 United Kingdom,Blaenau Gwent,,GB-BGW,,2020-07-30,-29.0,-5.0,,-10.0,-35.0,7.0
 United Kingdom,Blaenau Gwent,,GB-BGW,,2020-07-31,-31.0,-8.0,,-15.0,-37.0,
+United Kingdom,Blaenau Gwent,,GB-BGW,,2020-08-01,-42.0,-6.0,,-27.0,-9.0,
+United Kingdom,Blaenau Gwent,,GB-BGW,,2020-08-02,-35.0,-13.0,,,-3.0,
 United Kingdom,Borough of Halton,,GB-HAL,,2020-02-15,-8.0,-3.0,-51.0,-10.0,-1.0,
 United Kingdom,Borough of Halton,,GB-HAL,,2020-02-16,10.0,-5.0,-12.0,-4.0,1.0,
 United Kingdom,Borough of Halton,,GB-HAL,,2020-02-17,4.0,-2.0,,-6.0,-14.0,2.0
@@ -2519,6 +2547,8 @@ United Kingdom,Borough of Halton,,GB-HAL,,2020-07-28,-19.0,-5.0,,-35.0,-44.0,12.
 United Kingdom,Borough of Halton,,GB-HAL,,2020-07-29,-20.0,-12.0,,-35.0,-43.0,11.0
 United Kingdom,Borough of Halton,,GB-HAL,,2020-07-30,-20.0,-5.0,,-30.0,-43.0,11.0
 United Kingdom,Borough of Halton,,GB-HAL,,2020-07-31,-28.0,-10.0,,-32.0,-44.0,10.0
+United Kingdom,Borough of Halton,,GB-HAL,,2020-08-01,-31.0,-12.0,8.0,-20.0,-13.0,
+United Kingdom,Borough of Halton,,GB-HAL,,2020-08-02,-26.0,-14.0,,-19.0,-4.0,
 United Kingdom,Bracknell Forest,,GB-BRC,,2020-02-15,-9.0,-5.0,-40.0,-13.0,0.0,
 United Kingdom,Bracknell Forest,,GB-BRC,,2020-02-16,-10.0,-5.0,-56.0,-8.0,-4.0,
 United Kingdom,Bracknell Forest,,GB-BRC,,2020-02-17,14.0,3.0,,-4.0,-16.0,2.0
@@ -2687,6 +2717,8 @@ United Kingdom,Bracknell Forest,,GB-BRC,,2020-07-28,-27.0,-14.0,,-50.0,-56.0,17.
 United Kingdom,Bracknell Forest,,GB-BRC,,2020-07-29,-26.0,-12.0,,-50.0,-55.0,17.0
 United Kingdom,Bracknell Forest,,GB-BRC,,2020-07-30,-20.0,-12.0,,-50.0,-55.0,16.0
 United Kingdom,Bracknell Forest,,GB-BRC,,2020-07-31,-31.0,-14.0,,-43.0,-55.0,13.0
+United Kingdom,Bracknell Forest,,GB-BRC,,2020-08-01,-40.0,-12.0,23.0,-33.0,-11.0,
+United Kingdom,Bracknell Forest,,GB-BRC,,2020-08-02,-37.0,-18.0,20.0,-16.0,-6.0,
 United Kingdom,Bridgend County Borough,,GB-BGE,,2020-02-15,-11.0,-5.0,-25.0,-18.0,-1.0,3.0
 United Kingdom,Bridgend County Borough,,GB-BGE,,2020-02-16,-11.0,-6.0,16.0,-14.0,2.0,
 United Kingdom,Bridgend County Borough,,GB-BGE,,2020-02-17,13.0,0.0,,-4.0,-15.0,3.0
@@ -2855,6 +2887,8 @@ United Kingdom,Bridgend County Borough,,GB-BGE,,2020-07-28,-12.0,-2.0,,-43.0,-44
 United Kingdom,Bridgend County Borough,,GB-BGE,,2020-07-29,-17.0,-2.0,,-42.0,-43.0,12.0
 United Kingdom,Bridgend County Borough,,GB-BGE,,2020-07-30,-4.0,9.0,,-33.0,-43.0,11.0
 United Kingdom,Bridgend County Borough,,GB-BGE,,2020-07-31,-14.0,1.0,,-34.0,-45.0,10.0
+United Kingdom,Bridgend County Borough,,GB-BGE,,2020-08-01,-25.0,5.0,,-32.0,-12.0,
+United Kingdom,Bridgend County Borough,,GB-BGE,,2020-08-02,-20.0,-4.0,,-13.0,-7.0,
 United Kingdom,Brighton and Hove,,GB-BNH,,2020-02-15,-9.0,-7.0,-39.0,-12.0,-5.0,2.0
 United Kingdom,Brighton and Hove,,GB-BNH,,2020-02-16,-18.0,-14.0,-49.0,-9.0,-6.0,3.0
 United Kingdom,Brighton and Hove,,GB-BNH,,2020-02-17,14.0,0.0,20.0,-2.0,-13.0,2.0
@@ -3023,6 +3057,8 @@ United Kingdom,Brighton and Hove,,GB-BNH,,2020-07-28,-21.0,-18.0,104.0,-47.0,-57
 United Kingdom,Brighton and Hove,,GB-BNH,,2020-07-29,-18.0,-16.0,147.0,-43.0,-56.0,14.0
 United Kingdom,Brighton and Hove,,GB-BNH,,2020-07-30,-14.0,-11.0,215.0,-38.0,-55.0,13.0
 United Kingdom,Brighton and Hove,,GB-BNH,,2020-07-31,-15.0,-10.0,180.0,-25.0,-55.0,11.0
+United Kingdom,Brighton and Hove,,GB-BNH,,2020-08-01,-27.0,-13.0,84.0,-21.0,-18.0,3.0
+United Kingdom,Brighton and Hove,,GB-BNH,,2020-08-02,-22.0,-18.0,82.0,-18.0,-18.0,2.0
 United Kingdom,Bristol City,,GB-BST,,2020-02-15,-17.0,-10.0,-48.0,-9.0,-4.0,3.0
 United Kingdom,Bristol City,,GB-BST,,2020-02-16,-7.0,-5.0,-34.0,-1.0,-1.0,1.0
 United Kingdom,Bristol City,,GB-BST,,2020-02-17,5.0,-1.0,11.0,-3.0,-11.0,2.0
@@ -3191,6 +3227,8 @@ United Kingdom,Bristol City,,GB-BST,,2020-07-28,-35.0,-18.0,100.0,-59.0,-57.0,17
 United Kingdom,Bristol City,,GB-BST,,2020-07-29,-38.0,-20.0,80.0,-59.0,-57.0,16.0
 United Kingdom,Bristol City,,GB-BST,,2020-07-30,-36.0,-13.0,154.0,-58.0,-57.0,15.0
 United Kingdom,Bristol City,,GB-BST,,2020-07-31,-42.0,-18.0,104.0,-55.0,-57.0,13.0
+United Kingdom,Bristol City,,GB-BST,,2020-08-01,-48.0,-22.0,80.0,-46.0,-15.0,3.0
+United Kingdom,Bristol City,,GB-BST,,2020-08-02,-41.0,-22.0,87.0,-45.0,-11.0,2.0
 United Kingdom,Buckinghamshire,,GB-BKM,,2020-02-15,-11.0,-8.0,-25.0,-20.0,-5.0,2.0
 United Kingdom,Buckinghamshire,,GB-BKM,,2020-02-16,-16.0,-12.0,-40.0,-10.0,-4.0,1.0
 United Kingdom,Buckinghamshire,,GB-BKM,,2020-02-17,9.0,-1.0,10.0,-3.0,-18.0,2.0
@@ -3359,6 +3397,8 @@ United Kingdom,Buckinghamshire,,GB-BKM,,2020-07-28,-23.0,-13.0,61.0,-41.0,-52.0,
 United Kingdom,Buckinghamshire,,GB-BKM,,2020-07-29,-21.0,-14.0,64.0,-39.0,-52.0,16.0
 United Kingdom,Buckinghamshire,,GB-BKM,,2020-07-30,-18.0,-10.0,85.0,-38.0,-52.0,15.0
 United Kingdom,Buckinghamshire,,GB-BKM,,2020-07-31,-27.0,-15.0,83.0,-35.0,-52.0,13.0
+United Kingdom,Buckinghamshire,,GB-BKM,,2020-08-01,-31.0,-18.0,60.0,-20.0,-9.0,3.0
+United Kingdom,Buckinghamshire,,GB-BKM,,2020-08-02,-29.0,-21.0,73.0,-8.0,-4.0,2.0
 United Kingdom,Caerphilly County Borough,,GB-CAY,,2020-02-15,-17.0,-10.0,-52.0,-21.0,-3.0,4.0
 United Kingdom,Caerphilly County Borough,,GB-CAY,,2020-02-16,-17.0,-10.0,-48.0,-18.0,-6.0,
 United Kingdom,Caerphilly County Borough,,GB-CAY,,2020-02-17,3.0,-6.0,,-8.0,-17.0,3.0
@@ -3527,6 +3567,8 @@ United Kingdom,Caerphilly County Borough,,GB-CAY,,2020-07-28,-26.0,-9.0,,-33.0,-
 United Kingdom,Caerphilly County Borough,,GB-CAY,,2020-07-29,-25.0,-9.0,,-36.0,-43.0,12.0
 United Kingdom,Caerphilly County Borough,,GB-CAY,,2020-07-30,-24.0,-4.0,,-32.0,-43.0,11.0
 United Kingdom,Caerphilly County Borough,,GB-CAY,,2020-07-31,-36.0,-7.0,21.0,-33.0,-44.0,9.0
+United Kingdom,Caerphilly County Borough,,GB-CAY,,2020-08-01,-41.0,-10.0,23.0,-30.0,-11.0,4.0
+United Kingdom,Caerphilly County Borough,,GB-CAY,,2020-08-02,-33.0,-10.0,20.0,-13.0,-6.0,1.0
 United Kingdom,Cambridgeshire,,GB-CAM,,2020-02-15,-10.0,-8.0,-32.0,-6.0,-4.0,2.0
 United Kingdom,Cambridgeshire,,GB-CAM,,2020-02-16,-10.0,-9.0,-38.0,-7.0,-4.0,1.0
 United Kingdom,Cambridgeshire,,GB-CAM,,2020-02-17,14.0,0.0,22.0,2.0,-17.0,2.0
@@ -3695,6 +3737,8 @@ United Kingdom,Cambridgeshire,,GB-CAM,,2020-07-28,-33.0,-17.0,76.0,-43.0,-53.0,1
 United Kingdom,Cambridgeshire,,GB-CAM,,2020-07-29,-33.0,-18.0,85.0,-42.0,-52.0,16.0
 United Kingdom,Cambridgeshire,,GB-CAM,,2020-07-30,-29.0,-14.0,104.0,-41.0,-53.0,15.0
 United Kingdom,Cambridgeshire,,GB-CAM,,2020-07-31,-35.0,-15.0,87.0,-38.0,-53.0,13.0
+United Kingdom,Cambridgeshire,,GB-CAM,,2020-08-01,-42.0,-21.0,79.0,-25.0,-14.0,3.0
+United Kingdom,Cambridgeshire,,GB-CAM,,2020-08-02,-37.0,-22.0,89.0,-23.0,-10.0,2.0
 United Kingdom,Cardiff,,GB-CRF,,2020-02-15,-15.0,-4.0,-29.0,-12.0,-3.0,2.0
 United Kingdom,Cardiff,,GB-CRF,,2020-02-16,-13.0,-7.0,-15.0,-7.0,-2.0,1.0
 United Kingdom,Cardiff,,GB-CRF,,2020-02-17,7.0,1.0,4.0,-2.0,-14.0,2.0
@@ -3863,6 +3907,8 @@ United Kingdom,Cardiff,,GB-CRF,,2020-07-28,-40.0,-16.0,37.0,-58.0,-56.0,16.0
 United Kingdom,Cardiff,,GB-CRF,,2020-07-29,-41.0,-16.0,18.0,-58.0,-56.0,16.0
 United Kingdom,Cardiff,,GB-CRF,,2020-07-30,-39.0,-11.0,,-56.0,-56.0,14.0
 United Kingdom,Cardiff,,GB-CRF,,2020-07-31,-47.0,-14.0,-8.0,-50.0,-56.0,13.0
+United Kingdom,Cardiff,,GB-CRF,,2020-08-01,-51.0,-16.0,-6.0,-47.0,-22.0,5.0
+United Kingdom,Cardiff,,GB-CRF,,2020-08-02,-45.0,-17.0,10.0,-41.0,-16.0,3.0
 United Kingdom,Carmarthenshire,,GB-CMN,,2020-02-15,-14.0,-11.0,-49.0,-20.0,-9.0,5.0
 United Kingdom,Carmarthenshire,,GB-CMN,,2020-02-16,-9.0,-2.0,-21.0,-9.0,-3.0,
 United Kingdom,Carmarthenshire,,GB-CMN,,2020-02-17,10.0,3.0,38.0,4.0,-18.0,2.0
@@ -4031,6 +4077,8 @@ United Kingdom,Carmarthenshire,,GB-CMN,,2020-07-28,-29.0,13.0,158.0,-24.0,-42.0,
 United Kingdom,Carmarthenshire,,GB-CMN,,2020-07-29,-30.0,11.0,133.0,-22.0,-43.0,11.0
 United Kingdom,Carmarthenshire,,GB-CMN,,2020-07-30,-26.0,16.0,,-9.0,-44.0,10.0
 United Kingdom,Carmarthenshire,,GB-CMN,,2020-07-31,-32.0,10.0,169.0,-9.0,-44.0,9.0
+United Kingdom,Carmarthenshire,,GB-CMN,,2020-08-01,-34.0,16.0,111.0,-2.0,-17.0,5.0
+United Kingdom,Carmarthenshire,,GB-CMN,,2020-08-02,-33.0,4.0,143.0,1.0,-9.0,
 United Kingdom,Causeway Coast and Glens,,GB-CCG,,2020-02-15,-10.0,-5.0,-27.0,-22.0,-4.0,1.0
 United Kingdom,Causeway Coast and Glens,,GB-CCG,,2020-02-16,-2.0,-5.0,8.0,-5.0,-2.0,
 United Kingdom,Causeway Coast and Glens,,GB-CCG,,2020-02-17,17.0,0.0,,-6.0,-15.0,3.0
@@ -4199,6 +4247,8 @@ United Kingdom,Causeway Coast and Glens,,GB-CCG,,2020-07-28,21.0,13.0,,3.0,-34.0
 United Kingdom,Causeway Coast and Glens,,GB-CCG,,2020-07-29,25.0,12.0,,15.0,-34.0,8.0
 United Kingdom,Causeway Coast and Glens,,GB-CCG,,2020-07-30,16.0,15.0,,-6.0,-36.0,10.0
 United Kingdom,Causeway Coast and Glens,,GB-CCG,,2020-07-31,12.0,12.0,,1.0,-33.0,8.0
+United Kingdom,Causeway Coast and Glens,,GB-CCG,,2020-08-01,7.0,17.0,,26.0,-7.0,3.0
+United Kingdom,Causeway Coast and Glens,,GB-CCG,,2020-08-02,34.0,26.0,,49.0,-4.0,
 United Kingdom,Central Bedfordshire,,GB-CBF,,2020-02-15,-11.0,-7.0,-43.0,1.0,-6.0,2.0
 United Kingdom,Central Bedfordshire,,GB-CBF,,2020-02-16,-8.0,-7.0,-49.0,-10.0,-5.0,1.0
 United Kingdom,Central Bedfordshire,,GB-CBF,,2020-02-17,12.0,0.0,3.0,0.0,-17.0,2.0
@@ -4367,6 +4417,8 @@ United Kingdom,Central Bedfordshire,,GB-CBF,,2020-07-28,-20.0,-11.0,76.0,-15.0,-
 United Kingdom,Central Bedfordshire,,GB-CBF,,2020-07-29,-20.0,-11.0,84.0,-16.0,-49.0,15.0
 United Kingdom,Central Bedfordshire,,GB-CBF,,2020-07-30,-14.0,-6.0,105.0,-15.0,-49.0,14.0
 United Kingdom,Central Bedfordshire,,GB-CBF,,2020-07-31,-24.0,-9.0,74.0,-10.0,-49.0,13.0
+United Kingdom,Central Bedfordshire,,GB-CBF,,2020-08-01,-29.0,-14.0,64.0,-3.0,-8.0,3.0
+United Kingdom,Central Bedfordshire,,GB-CBF,,2020-08-02,-17.0,-16.0,,6.0,0.0,2.0
 United Kingdom,Ceredigion,,GB-CGN,,2020-02-15,-21.0,24.0,-28.0,-13.0,0.0,
 United Kingdom,Ceredigion,,GB-CGN,,2020-02-16,-17.0,36.0,2.0,,1.0,
 United Kingdom,Ceredigion,,GB-CGN,,2020-02-17,-3.0,39.0,55.0,11.0,-12.0,2.0
@@ -4535,6 +4587,8 @@ United Kingdom,Ceredigion,,GB-CGN,,2020-07-28,-18.0,17.0,,-13.0,-45.0,
 United Kingdom,Ceredigion,,GB-CGN,,2020-07-29,-21.0,17.0,,-15.0,-44.0,
 United Kingdom,Ceredigion,,GB-CGN,,2020-07-30,-12.0,17.0,,,-47.0,
 United Kingdom,Ceredigion,,GB-CGN,,2020-07-31,-22.0,23.0,,15.0,-44.0,
+United Kingdom,Ceredigion,,GB-CGN,,2020-08-01,-10.0,27.0,236.0,,-22.0,
+United Kingdom,Ceredigion,,GB-CGN,,2020-08-02,-9.0,,,,-14.0,
 United Kingdom,Cheshire East,,GB-CHE,,2020-02-15,-14.0,-5.0,-53.0,-7.0,-6.0,2.0
 United Kingdom,Cheshire East,,GB-CHE,,2020-02-16,-6.0,-4.0,-39.0,5.0,-3.0,0.0
 United Kingdom,Cheshire East,,GB-CHE,,2020-02-17,7.0,-2.0,21.0,6.0,-16.0,2.0
@@ -4703,6 +4757,8 @@ United Kingdom,Cheshire East,,GB-CHE,,2020-07-28,-22.0,-13.0,78.0,-34.0,-48.0,14
 United Kingdom,Cheshire East,,GB-CHE,,2020-07-29,-21.0,-12.0,80.0,-32.0,-48.0,14.0
 United Kingdom,Cheshire East,,GB-CHE,,2020-07-30,-18.0,-9.0,110.0,-29.0,-48.0,13.0
 United Kingdom,Cheshire East,,GB-CHE,,2020-07-31,-25.0,-13.0,108.0,-17.0,-49.0,12.0
+United Kingdom,Cheshire East,,GB-CHE,,2020-08-01,-32.0,-16.0,22.0,-17.0,-11.0,5.0
+United Kingdom,Cheshire East,,GB-CHE,,2020-08-02,-23.0,-15.0,53.0,-17.0,-5.0,2.0
 United Kingdom,Cheshire West and Chester,,GB-CHW,,2020-02-15,-12.0,-6.0,-37.0,-17.0,-3.0,2.0
 United Kingdom,Cheshire West and Chester,,GB-CHW,,2020-02-16,0.0,-3.0,-22.0,-8.0,0.0,1.0
 United Kingdom,Cheshire West and Chester,,GB-CHW,,2020-02-17,20.0,0.0,30.0,1.0,-17.0,2.0
@@ -4871,6 +4927,8 @@ United Kingdom,Cheshire West and Chester,,GB-CHW,,2020-07-28,-11.0,-10.0,81.0,-3
 United Kingdom,Cheshire West and Chester,,GB-CHW,,2020-07-29,-15.0,-11.0,78.0,-30.0,-49.0,13.0
 United Kingdom,Cheshire West and Chester,,GB-CHW,,2020-07-30,-13.0,-10.0,100.0,-29.0,-49.0,13.0
 United Kingdom,Cheshire West and Chester,,GB-CHW,,2020-07-31,-25.0,-16.0,92.0,-25.0,-49.0,11.0
+United Kingdom,Cheshire West and Chester,,GB-CHW,,2020-08-01,-32.0,-19.0,26.0,-27.0,-14.0,4.0
+United Kingdom,Cheshire West and Chester,,GB-CHW,,2020-08-02,-21.0,-19.0,59.0,-23.0,-8.0,2.0
 United Kingdom,Clackmannanshire,,GB-CLK,,2020-02-15,-17.0,-8.0,,,-2.0,
 United Kingdom,Clackmannanshire,,GB-CLK,,2020-02-16,-8.0,-9.0,,,-1.0,
 United Kingdom,Clackmannanshire,,GB-CLK,,2020-02-17,-3.0,-3.0,,,-16.0,2.0
@@ -5039,6 +5097,8 @@ United Kingdom,Clackmannanshire,,GB-CLK,,2020-07-28,,-5.0,,,-44.0,
 United Kingdom,Clackmannanshire,,GB-CLK,,2020-07-29,-12.0,-9.0,,,-43.0,
 United Kingdom,Clackmannanshire,,GB-CLK,,2020-07-30,-23.0,-4.0,,-40.0,-47.0,
 United Kingdom,Clackmannanshire,,GB-CLK,,2020-07-31,-27.0,-8.0,,,-44.0,
+United Kingdom,Clackmannanshire,,GB-CLK,,2020-08-01,-29.0,-13.0,,,-6.0,
+United Kingdom,Clackmannanshire,,GB-CLK,,2020-08-02,,-19.0,,,-9.0,
 United Kingdom,Conwy Principal Area,,GB-CWY,,2020-02-15,-17.0,-10.0,-53.0,-21.0,-6.0,
 United Kingdom,Conwy Principal Area,,GB-CWY,,2020-02-16,-2.0,-3.0,-22.0,1.0,-1.0,
 United Kingdom,Conwy Principal Area,,GB-CWY,,2020-02-17,21.0,6.0,43.0,7.0,-17.0,2.0
@@ -5207,6 +5267,8 @@ United Kingdom,Conwy Principal Area,,GB-CWY,,2020-07-28,-3.0,31.0,226.0,10.0,-43
 United Kingdom,Conwy Principal Area,,GB-CWY,,2020-07-29,-5.0,28.0,202.0,5.0,-43.0,11.0
 United Kingdom,Conwy Principal Area,,GB-CWY,,2020-07-30,-1.0,31.0,,17.0,-43.0,10.0
 United Kingdom,Conwy Principal Area,,GB-CWY,,2020-07-31,-3.0,33.0,268.0,36.0,-42.0,8.0
+United Kingdom,Conwy Principal Area,,GB-CWY,,2020-08-01,-9.0,42.0,132.0,69.0,-18.0,
+United Kingdom,Conwy Principal Area,,GB-CWY,,2020-08-02,2.0,36.0,,84.0,-14.0,
 United Kingdom,Cornwall,,GB-CON,,2020-02-15,-19.0,-7.0,-38.0,-19.0,-6.0,4.0
 United Kingdom,Cornwall,,GB-CON,,2020-02-16,3.0,1.0,-4.0,-5.0,-3.0,2.0
 United Kingdom,Cornwall,,GB-CON,,2020-02-17,30.0,9.0,62.0,12.0,-17.0,2.0
@@ -5375,6 +5437,8 @@ United Kingdom,Cornwall,,GB-CON,,2020-07-28,34.0,22.0,416.0,22.0,-37.0,9.0
 United Kingdom,Cornwall,,GB-CON,,2020-07-29,28.0,22.0,317.0,15.0,-37.0,8.0
 United Kingdom,Cornwall,,GB-CON,,2020-07-30,33.0,23.0,,27.0,-37.0,7.0
 United Kingdom,Cornwall,,GB-CON,,2020-07-31,22.0,18.0,313.0,18.0,-38.0,8.0
+United Kingdom,Cornwall,,GB-CON,,2020-08-01,8.0,18.0,240.0,31.0,-6.0,3.0
+United Kingdom,Cornwall,,GB-CON,,2020-08-02,30.0,20.0,263.0,40.0,-5.0,2.0
 United Kingdom,County Durham,,GB-DUR,,2020-02-15,-8.0,-3.0,-37.0,-9.0,-2.0,2.0
 United Kingdom,County Durham,,GB-DUR,,2020-02-16,-2.0,-2.0,-15.0,1.0,0.0,1.0
 United Kingdom,County Durham,,GB-DUR,,2020-02-17,6.0,-1.0,21.0,2.0,-16.0,3.0
@@ -5543,6 +5607,8 @@ United Kingdom,County Durham,,GB-DUR,,2020-07-28,-18.0,-8.0,99.0,-22.0,-44.0,12.
 United Kingdom,County Durham,,GB-DUR,,2020-07-29,-15.0,-7.0,113.0,-21.0,-43.0,11.0
 United Kingdom,County Durham,,GB-DUR,,2020-07-30,-15.0,-7.0,71.0,-22.0,-44.0,11.0
 United Kingdom,County Durham,,GB-DUR,,2020-07-31,-19.0,-9.0,138.0,-15.0,-43.0,9.0
+United Kingdom,County Durham,,GB-DUR,,2020-08-01,-24.0,-11.0,62.0,-13.0,-12.0,4.0
+United Kingdom,County Durham,,GB-DUR,,2020-08-02,-18.0,-14.0,95.0,-13.0,-7.0,2.0
 United Kingdom,Cumbria,,GB-CMA,,2020-02-15,-12.0,-7.0,-27.0,-6.0,-5.0,3.0
 United Kingdom,Cumbria,,GB-CMA,,2020-02-16,7.0,2.0,16.0,9.0,0.0,1.0
 United Kingdom,Cumbria,,GB-CMA,,2020-02-17,18.0,6.0,46.0,14.0,-16.0,2.0
@@ -5711,6 +5777,8 @@ United Kingdom,Cumbria,,GB-CMA,,2020-07-28,-2.0,9.0,183.0,3.0,-41.0,10.0
 United Kingdom,Cumbria,,GB-CMA,,2020-07-29,-4.0,7.0,177.0,5.0,-41.0,10.0
 United Kingdom,Cumbria,,GB-CMA,,2020-07-30,-1.0,9.0,170.0,2.0,-42.0,10.0
 United Kingdom,Cumbria,,GB-CMA,,2020-07-31,-12.0,6.0,228.0,22.0,-41.0,8.0
+United Kingdom,Cumbria,,GB-CMA,,2020-08-01,-17.0,6.0,158.0,23.0,-14.0,3.0
+United Kingdom,Cumbria,,GB-CMA,,2020-08-02,-5.0,4.0,175.0,19.0,-9.0,2.0
 United Kingdom,Darlington,,GB-DAL,,2020-02-15,-6.0,-7.0,-45.0,0.0,-3.0,
 United Kingdom,Darlington,,GB-DAL,,2020-02-16,1.0,-4.0,,3.0,0.0,
 United Kingdom,Darlington,,GB-DAL,,2020-02-17,7.0,-5.0,,4.0,-15.0,2.0
@@ -5879,6 +5947,8 @@ United Kingdom,Darlington,,GB-DAL,,2020-07-28,-18.0,-7.0,,-42.0,-43.0,11.0
 United Kingdom,Darlington,,GB-DAL,,2020-07-29,-19.0,-7.0,,-40.0,-42.0,11.0
 United Kingdom,Darlington,,GB-DAL,,2020-07-30,-18.0,-10.0,,-44.0,-43.0,11.0
 United Kingdom,Darlington,,GB-DAL,,2020-07-31,-24.0,-14.0,,-41.0,-43.0,9.0
+United Kingdom,Darlington,,GB-DAL,,2020-08-01,-28.0,-15.0,-7.0,-27.0,-14.0,
+United Kingdom,Darlington,,GB-DAL,,2020-08-02,-22.0,-16.0,,-36.0,-5.0,
 United Kingdom,Denbighshire,,GB-DEN,,2020-02-15,-11.0,-11.0,-47.0,-23.0,-4.0,
 United Kingdom,Denbighshire,,GB-DEN,,2020-02-16,1.0,-4.0,-24.0,-11.0,-2.0,
 United Kingdom,Denbighshire,,GB-DEN,,2020-02-17,17.0,3.0,40.0,-1.0,-17.0,3.0
@@ -6047,6 +6117,8 @@ United Kingdom,Denbighshire,,GB-DEN,,2020-07-28,-3.0,9.0,,-5.0,-41.0,11.0
 United Kingdom,Denbighshire,,GB-DEN,,2020-07-29,-8.0,9.0,,-8.0,-41.0,10.0
 United Kingdom,Denbighshire,,GB-DEN,,2020-07-30,-3.0,14.0,,-7.0,-41.0,11.0
 United Kingdom,Denbighshire,,GB-DEN,,2020-07-31,-4.0,17.0,,7.0,-41.0,8.0
+United Kingdom,Denbighshire,,GB-DEN,,2020-08-01,-11.0,20.0,103.0,-1.0,-13.0,
+United Kingdom,Denbighshire,,GB-DEN,,2020-08-02,1.0,27.0,140.0,24.0,-4.0,
 United Kingdom,Derby,,GB-DER,,2020-02-15,6.0,-5.0,-41.0,-1.0,-4.0,2.0
 United Kingdom,Derby,,GB-DER,,2020-02-16,-6.0,-7.0,-52.0,-18.0,-4.0,1.0
 United Kingdom,Derby,,GB-DER,,2020-02-17,9.0,-2.0,13.0,-4.0,-13.0,2.0
@@ -6215,6 +6287,8 @@ United Kingdom,Derby,,GB-DER,,2020-07-28,-27.0,-8.0,,-54.0,-45.0,12.0
 United Kingdom,Derby,,GB-DER,,2020-07-29,-28.0,-11.0,78.0,-53.0,-45.0,12.0
 United Kingdom,Derby,,GB-DER,,2020-07-30,-25.0,-6.0,,-53.0,-46.0,11.0
 United Kingdom,Derby,,GB-DER,,2020-07-31,-35.0,-11.0,66.0,-52.0,-47.0,10.0
+United Kingdom,Derby,,GB-DER,,2020-08-01,-41.0,-15.0,44.0,-46.0,-11.0,3.0
+United Kingdom,Derby,,GB-DER,,2020-08-02,-36.0,-16.0,40.0,-42.0,-9.0,2.0
 United Kingdom,Derbyshire,,GB-DBY,,2020-02-15,-15.0,-5.0,-43.0,-12.0,-5.0,2.0
 United Kingdom,Derbyshire,,GB-DBY,,2020-02-16,-6.0,-5.0,-29.0,-9.0,-3.0,1.0
 United Kingdom,Derbyshire,,GB-DBY,,2020-02-17,8.0,0.0,38.0,1.0,-15.0,2.0
@@ -6383,6 +6457,8 @@ United Kingdom,Derbyshire,,GB-DBY,,2020-07-28,-16.0,-6.0,126.0,-18.0,-43.0,12.0
 United Kingdom,Derbyshire,,GB-DBY,,2020-07-29,-16.0,-5.0,106.0,-17.0,-43.0,12.0
 United Kingdom,Derbyshire,,GB-DBY,,2020-07-30,-14.0,-3.0,137.0,-16.0,-44.0,11.0
 United Kingdom,Derbyshire,,GB-DBY,,2020-07-31,-20.0,-6.0,118.0,-16.0,-44.0,10.0
+United Kingdom,Derbyshire,,GB-DBY,,2020-08-01,-27.0,-7.0,71.0,-8.0,-10.0,3.0
+United Kingdom,Derbyshire,,GB-DBY,,2020-08-02,-14.0,-10.0,111.0,8.0,-5.0,1.0
 United Kingdom,Derry and Strabane,,GB-DRS,,2020-02-15,-6.0,-5.0,-25.0,-23.0,-4.0,2.0
 United Kingdom,Derry and Strabane,,GB-DRS,,2020-02-16,-7.0,-7.0,-28.0,-10.0,-4.0,
 United Kingdom,Derry and Strabane,,GB-DRS,,2020-02-17,7.0,-1.0,2.0,-14.0,-15.0,2.0
@@ -6551,6 +6627,8 @@ United Kingdom,Derry and Strabane,,GB-DRS,,2020-07-28,-12.0,3.0,21.0,-38.0,-40.0
 United Kingdom,Derry and Strabane,,GB-DRS,,2020-07-29,-7.0,5.0,28.0,-33.0,-38.0,8.0
 United Kingdom,Derry and Strabane,,GB-DRS,,2020-07-30,-6.0,0.0,3.0,-38.0,-40.0,10.0
 United Kingdom,Derry and Strabane,,GB-DRS,,2020-07-31,-12.0,3.0,3.0,-35.0,-38.0,8.0
+United Kingdom,Derry and Strabane,,GB-DRS,,2020-08-01,-20.0,-1.0,31.0,-30.0,-10.0,1.0
+United Kingdom,Derry and Strabane,,GB-DRS,,2020-08-02,-13.0,-1.0,29.0,-28.0,0.0,
 United Kingdom,Devon,,GB-DEV,,2020-02-15,-22.0,-9.0,-46.0,-21.0,-7.0,4.0
 United Kingdom,Devon,,GB-DEV,,2020-02-16,-10.0,-6.0,-24.0,-11.0,-2.0,2.0
 United Kingdom,Devon,,GB-DEV,,2020-02-17,18.0,7.0,44.0,9.0,-16.0,2.0
@@ -6719,6 +6797,8 @@ United Kingdom,Devon,,GB-DEV,,2020-07-28,-3.0,5.0,270.0,-6.0,-42.0,10.0
 United Kingdom,Devon,,GB-DEV,,2020-07-29,-8.0,5.0,211.0,-7.0,-41.0,10.0
 United Kingdom,Devon,,GB-DEV,,2020-07-30,-2.0,9.0,296.0,0.0,-42.0,9.0
 United Kingdom,Devon,,GB-DEV,,2020-07-31,-9.0,5.0,271.0,4.0,-42.0,9.0
+United Kingdom,Devon,,GB-DEV,,2020-08-01,-18.0,3.0,158.0,14.0,-11.0,4.0
+United Kingdom,Devon,,GB-DEV,,2020-08-02,-10.0,-1.0,169.0,16.0,-7.0,2.0
 United Kingdom,Dorset,,GB-DOR,,2020-02-15,-15.0,-6.0,-43.0,-20.0,-5.0,3.0
 United Kingdom,Dorset,,GB-DOR,,2020-02-16,-15.0,-7.0,-41.0,-22.0,-3.0,2.0
 United Kingdom,Dorset,,GB-DOR,,2020-02-17,14.0,7.0,58.0,2.0,-14.0,2.0
@@ -6887,6 +6967,8 @@ United Kingdom,Dorset,,GB-DOR,,2020-07-28,-12.0,1.0,249.0,-11.0,-44.0,11.0
 United Kingdom,Dorset,,GB-DOR,,2020-07-29,-11.0,2.0,228.0,-11.0,-44.0,11.0
 United Kingdom,Dorset,,GB-DOR,,2020-07-30,-5.0,7.0,334.0,-3.0,-44.0,10.0
 United Kingdom,Dorset,,GB-DOR,,2020-07-31,-10.0,4.0,,3.0,-44.0,9.0
+United Kingdom,Dorset,,GB-DOR,,2020-08-01,-20.0,1.0,193.0,7.0,-12.0,3.0
+United Kingdom,Dorset,,GB-DOR,,2020-08-02,-16.0,-2.0,167.0,3.0,-7.0,2.0
 United Kingdom,Dumfries and Galloway,,GB-DGY,,2020-02-15,-11.0,-4.0,-21.0,9.0,-8.0,4.0
 United Kingdom,Dumfries and Galloway,,GB-DGY,,2020-02-16,5.0,2.0,19.0,13.0,-1.0,
 United Kingdom,Dumfries and Galloway,,GB-DGY,,2020-02-17,13.0,5.0,34.0,18.0,-16.0,1.0
@@ -7055,6 +7137,8 @@ United Kingdom,Dumfries and Galloway,,GB-DGY,,2020-07-28,-8.0,13.0,136.0,8.0,-37
 United Kingdom,Dumfries and Galloway,,GB-DGY,,2020-07-29,-9.0,13.0,,13.0,-38.0,8.0
 United Kingdom,Dumfries and Galloway,,GB-DGY,,2020-07-30,-8.0,9.0,91.0,11.0,-39.0,10.0
 United Kingdom,Dumfries and Galloway,,GB-DGY,,2020-07-31,-16.0,8.0,174.0,15.0,-37.0,8.0
+United Kingdom,Dumfries and Galloway,,GB-DGY,,2020-08-01,-12.0,14.0,164.0,33.0,-14.0,4.0
+United Kingdom,Dumfries and Galloway,,GB-DGY,,2020-08-02,-5.0,9.0,153.0,30.0,-10.0,
 United Kingdom,Dundee City Council,,GB-DND,,2020-02-15,-10.0,-7.0,-27.0,-8.0,-5.0,2.0
 United Kingdom,Dundee City Council,,GB-DND,,2020-02-16,-5.0,-3.0,-26.0,-10.0,0.0,0.0
 United Kingdom,Dundee City Council,,GB-DND,,2020-02-17,8.0,3.0,-4.0,3.0,-11.0,2.0
@@ -7223,6 +7307,8 @@ United Kingdom,Dundee City Council,,GB-DND,,2020-07-28,-25.0,-14.0,,-37.0,-50.0,
 United Kingdom,Dundee City Council,,GB-DND,,2020-07-29,-26.0,-15.0,,-33.0,-48.0,11.0
 United Kingdom,Dundee City Council,,GB-DND,,2020-07-30,-24.0,-15.0,-2.0,-42.0,-51.0,12.0
 United Kingdom,Dundee City Council,,GB-DND,,2020-07-31,-24.0,-14.0,,-30.0,-48.0,8.0
+United Kingdom,Dundee City Council,,GB-DND,,2020-08-01,-33.0,-16.0,,-26.0,-20.0,3.0
+United Kingdom,Dundee City Council,,GB-DND,,2020-08-02,-26.0,-21.0,,-33.0,-17.0,
 United Kingdom,East Ayrshire Council,,GB-EAY,,2020-02-15,-11.0,-3.0,,-11.0,-7.0,
 United Kingdom,East Ayrshire Council,,GB-EAY,,2020-02-16,2.0,-3.0,,-3.0,-4.0,
 United Kingdom,East Ayrshire Council,,GB-EAY,,2020-02-17,4.0,2.0,,0.0,0.0,1.0
@@ -7391,6 +7477,8 @@ United Kingdom,East Ayrshire Council,,GB-EAY,,2020-07-28,-23.0,-5.0,,-35.0,-42.0
 United Kingdom,East Ayrshire Council,,GB-EAY,,2020-07-29,-22.0,-10.0,,-33.0,-41.0,10.0
 United Kingdom,East Ayrshire Council,,GB-EAY,,2020-07-30,-22.0,-7.0,,-39.0,-43.0,12.0
 United Kingdom,East Ayrshire Council,,GB-EAY,,2020-07-31,-28.0,-15.0,,-27.0,-42.0,9.0
+United Kingdom,East Ayrshire Council,,GB-EAY,,2020-08-01,-34.0,-14.0,,-24.0,-15.0,
+United Kingdom,East Ayrshire Council,,GB-EAY,,2020-08-02,-21.0,-17.0,,-24.0,-13.0,
 United Kingdom,East Dunbartonshire Council,,GB-EDU,,2020-02-15,-10.0,-4.0,,-26.0,0.0,
 United Kingdom,East Dunbartonshire Council,,GB-EDU,,2020-02-16,-5.0,-1.0,,-6.0,2.0,
 United Kingdom,East Dunbartonshire Council,,GB-EDU,,2020-02-17,3.0,4.0,,-2.0,2.0,1.0
@@ -7559,6 +7647,8 @@ United Kingdom,East Dunbartonshire Council,,GB-EDU,,2020-07-28,-8.0,2.0,,-47.0,-
 United Kingdom,East Dunbartonshire Council,,GB-EDU,,2020-07-29,-10.0,-1.0,,-44.0,-54.0,15.0
 United Kingdom,East Dunbartonshire Council,,GB-EDU,,2020-07-30,-13.0,0.0,,-52.0,-55.0,15.0
 United Kingdom,East Dunbartonshire Council,,GB-EDU,,2020-07-31,-16.0,-7.0,,-47.0,-53.0,12.0
+United Kingdom,East Dunbartonshire Council,,GB-EDU,,2020-08-01,-17.0,-8.0,,-39.0,-8.0,
+United Kingdom,East Dunbartonshire Council,,GB-EDU,,2020-08-02,-8.0,-14.0,,-23.0,-5.0,
 United Kingdom,East Lothian Council,,GB-ELN,,2020-02-15,-14.0,-6.0,-27.0,-13.0,-5.0,
 United Kingdom,East Lothian Council,,GB-ELN,,2020-02-16,3.0,-3.0,-3.0,-6.0,-1.0,
 United Kingdom,East Lothian Council,,GB-ELN,,2020-02-17,2.0,0.0,,-3.0,-12.0,2.0
@@ -7727,6 +7817,8 @@ United Kingdom,East Lothian Council,,GB-ELN,,2020-07-28,-22.0,5.0,,-6.0,-50.0,14
 United Kingdom,East Lothian Council,,GB-ELN,,2020-07-29,-18.0,4.0,,0.0,-49.0,13.0
 United Kingdom,East Lothian Council,,GB-ELN,,2020-07-30,-23.0,3.0,,-29.0,-51.0,15.0
 United Kingdom,East Lothian Council,,GB-ELN,,2020-07-31,-1.0,14.0,,17.0,-48.0,10.0
+United Kingdom,East Lothian Council,,GB-ELN,,2020-08-01,-10.0,11.0,,3.0,-9.0,
+United Kingdom,East Lothian Council,,GB-ELN,,2020-08-02,0.0,2.0,,15.0,-5.0,
 United Kingdom,East Renfrewshire Council,,GB-ERW,,2020-02-15,-6.0,-11.0,,-18.0,-3.0,
 United Kingdom,East Renfrewshire Council,,GB-ERW,,2020-02-16,2.0,-1.0,,,-3.0,
 United Kingdom,East Renfrewshire Council,,GB-ERW,,2020-02-17,4.0,2.0,,0.0,0.0,0.0
@@ -7895,6 +7987,8 @@ United Kingdom,East Renfrewshire Council,,GB-ERW,,2020-07-28,-7.0,-2.0,,-44.0,-5
 United Kingdom,East Renfrewshire Council,,GB-ERW,,2020-07-29,-10.0,-3.0,,-37.0,-57.0,15.0
 United Kingdom,East Renfrewshire Council,,GB-ERW,,2020-07-30,-17.0,2.0,,-51.0,-57.0,17.0
 United Kingdom,East Renfrewshire Council,,GB-ERW,,2020-07-31,-17.0,-7.0,,-43.0,-57.0,12.0
+United Kingdom,East Renfrewshire Council,,GB-ERW,,2020-08-01,-18.0,-4.0,,-33.0,-14.0,
+United Kingdom,East Renfrewshire Council,,GB-ERW,,2020-08-02,-2.0,-13.0,,,-8.0,
 United Kingdom,East Riding of Yorkshire,,GB-ERY,,2020-02-15,-13.0,-8.0,-29.0,-1.0,-5.0,2.0
 United Kingdom,East Riding of Yorkshire,,GB-ERY,,2020-02-16,-7.0,-6.0,-28.0,12.0,-4.0,1.0
 United Kingdom,East Riding of Yorkshire,,GB-ERY,,2020-02-17,10.0,-1.0,26.0,6.0,-17.0,2.0
@@ -8063,6 +8157,8 @@ United Kingdom,East Riding of Yorkshire,,GB-ERY,,2020-07-28,-2.0,2.0,233.0,-10.0
 United Kingdom,East Riding of Yorkshire,,GB-ERY,,2020-07-29,0.0,1.0,248.0,-5.0,-40.0,11.0
 United Kingdom,East Riding of Yorkshire,,GB-ERY,,2020-07-30,1.0,6.0,249.0,-10.0,-41.0,11.0
 United Kingdom,East Riding of Yorkshire,,GB-ERY,,2020-07-31,2.0,4.0,308.0,10.0,-41.0,9.0
+United Kingdom,East Riding of Yorkshire,,GB-ERY,,2020-08-01,-11.0,1.0,206.0,10.0,-9.0,3.0
+United Kingdom,East Riding of Yorkshire,,GB-ERY,,2020-08-02,6.0,8.0,,37.0,-3.0,1.0
 United Kingdom,East Sussex,,GB-ESX,,2020-02-15,-12.0,-3.0,-30.0,-14.0,-4.0,2.0
 United Kingdom,East Sussex,,GB-ESX,,2020-02-16,-21.0,-12.0,-46.0,-19.0,-6.0,2.0
 United Kingdom,East Sussex,,GB-ESX,,2020-02-17,7.0,0.0,21.0,-5.0,-18.0,3.0
@@ -8231,6 +8327,8 @@ United Kingdom,East Sussex,,GB-ESX,,2020-07-28,-13.0,-8.0,133.0,-25.0,-43.0,12.0
 United Kingdom,East Sussex,,GB-ESX,,2020-07-29,-8.0,-6.0,162.0,-23.0,-43.0,11.0
 United Kingdom,East Sussex,,GB-ESX,,2020-07-30,-7.0,-1.0,207.0,-22.0,-43.0,11.0
 United Kingdom,East Sussex,,GB-ESX,,2020-07-31,-13.0,-4.0,211.0,-16.0,-44.0,10.0
+United Kingdom,East Sussex,,GB-ESX,,2020-08-01,-20.0,-6.0,143.0,-5.0,-9.0,4.0
+United Kingdom,East Sussex,,GB-ESX,,2020-08-02,-13.0,-10.0,133.0,-2.0,-7.0,2.0
 United Kingdom,Edinburgh,,GB-EDH,,2020-02-15,-4.0,-7.0,-29.0,-6.0,-2.0,2.0
 United Kingdom,Edinburgh,,GB-EDH,,2020-02-16,6.0,3.0,7.0,6.0,1.0,0.0
 United Kingdom,Edinburgh,,GB-EDH,,2020-02-17,9.0,-1.0,25.0,9.0,-3.0,1.0
@@ -8399,6 +8497,8 @@ United Kingdom,Edinburgh,,GB-EDH,,2020-07-28,-46.0,-20.0,54.0,-58.0,-64.0,19.0
 United Kingdom,Edinburgh,,GB-EDH,,2020-07-29,-45.0,-20.0,63.0,-57.0,-63.0,18.0
 United Kingdom,Edinburgh,,GB-EDH,,2020-07-30,-47.0,-20.0,0.0,-60.0,-65.0,20.0
 United Kingdom,Edinburgh,,GB-EDH,,2020-07-31,-47.0,-16.0,94.0,-51.0,-62.0,13.0
+United Kingdom,Edinburgh,,GB-EDH,,2020-08-01,-51.0,-21.0,9.0,-45.0,-28.0,5.0
+United Kingdom,Edinburgh,,GB-EDH,,2020-08-02,-45.0,-21.0,36.0,-46.0,-27.0,5.0
 United Kingdom,Essex,,GB-ESS,,2020-02-15,-9.0,-7.0,-27.0,-11.0,-3.0,2.0
 United Kingdom,Essex,,GB-ESS,,2020-02-16,-16.0,-12.0,-45.0,-9.0,-5.0,2.0
 United Kingdom,Essex,,GB-ESS,,2020-02-17,9.0,-1.0,23.0,-1.0,-16.0,3.0
@@ -8567,6 +8667,8 @@ United Kingdom,Essex,,GB-ESS,,2020-07-28,-16.0,-12.0,87.0,-47.0,-47.0,14.0
 United Kingdom,Essex,,GB-ESS,,2020-07-29,-14.0,-11.0,106.0,-45.0,-47.0,13.0
 United Kingdom,Essex,,GB-ESS,,2020-07-30,-13.0,-8.0,122.0,-48.0,-47.0,13.0
 United Kingdom,Essex,,GB-ESS,,2020-07-31,-20.0,-11.0,125.0,-47.0,-47.0,11.0
+United Kingdom,Essex,,GB-ESS,,2020-08-01,-28.0,-13.0,84.0,-34.0,-10.0,3.0
+United Kingdom,Essex,,GB-ESS,,2020-08-02,-21.0,-17.0,109.0,-34.0,-5.0,2.0
 United Kingdom,Falkirk,,GB-FAL,,2020-02-15,-14.0,-6.0,-40.0,-14.0,-5.0,3.0
 United Kingdom,Falkirk,,GB-FAL,,2020-02-16,0.0,-5.0,-12.0,-1.0,-2.0,
 United Kingdom,Falkirk,,GB-FAL,,2020-02-17,1.0,-1.0,,-4.0,-16.0,2.0
@@ -8735,6 +8837,8 @@ United Kingdom,Falkirk,,GB-FAL,,2020-07-28,-22.0,-8.0,,-43.0,-46.0,13.0
 United Kingdom,Falkirk,,GB-FAL,,2020-07-29,-16.0,-12.0,,-39.0,-46.0,12.0
 United Kingdom,Falkirk,,GB-FAL,,2020-07-30,-25.0,-11.0,,-50.0,-47.0,14.0
 United Kingdom,Falkirk,,GB-FAL,,2020-07-31,-28.0,-14.0,,-38.0,-45.0,10.0
+United Kingdom,Falkirk,,GB-FAL,,2020-08-01,-34.0,-15.0,49.0,-32.0,-11.0,4.0
+United Kingdom,Falkirk,,GB-FAL,,2020-08-02,-18.0,-14.0,69.0,-23.0,-6.0,
 United Kingdom,Fermanagh and Omagh,,GB-FMO,,2020-02-15,-11.0,-4.0,-28.0,-25.0,-8.0,
 United Kingdom,Fermanagh and Omagh,,GB-FMO,,2020-02-16,2.0,-6.0,-39.0,-10.0,-3.0,
 United Kingdom,Fermanagh and Omagh,,GB-FMO,,2020-02-17,9.0,-3.0,,-17.0,-18.0,3.0
@@ -8903,6 +9007,8 @@ United Kingdom,Fermanagh and Omagh,,GB-FMO,,2020-07-28,-7.0,4.0,,-18.0,-37.0,9.0
 United Kingdom,Fermanagh and Omagh,,GB-FMO,,2020-07-29,-7.0,8.0,,-24.0,-36.0,9.0
 United Kingdom,Fermanagh and Omagh,,GB-FMO,,2020-07-30,-6.0,4.0,,-25.0,-37.0,10.0
 United Kingdom,Fermanagh and Omagh,,GB-FMO,,2020-07-31,-11.0,10.0,,-26.0,-36.0,9.0
+United Kingdom,Fermanagh and Omagh,,GB-FMO,,2020-08-01,-15.0,9.0,,-17.0,-9.0,
+United Kingdom,Fermanagh and Omagh,,GB-FMO,,2020-08-02,0.0,12.0,,-14.0,2.0,
 United Kingdom,Fife,,GB-FIF,,2020-02-15,-5.0,-2.0,-27.0,-10.0,-3.0,2.0
 United Kingdom,Fife,,GB-FIF,,2020-02-16,0.0,0.0,-11.0,-2.0,0.0,0.0
 United Kingdom,Fife,,GB-FIF,,2020-02-17,3.0,3.0,4.0,-4.0,1.0,1.0
@@ -9071,6 +9177,8 @@ United Kingdom,Fife,,GB-FIF,,2020-07-28,-17.0,-3.0,129.0,-34.0,-47.0,12.0
 United Kingdom,Fife,,GB-FIF,,2020-07-29,-16.0,-4.0,127.0,-33.0,-46.0,11.0
 United Kingdom,Fife,,GB-FIF,,2020-07-30,-21.0,-4.0,34.0,-40.0,-47.0,13.0
 United Kingdom,Fife,,GB-FIF,,2020-07-31,-21.0,-1.0,213.0,-24.0,-46.0,9.0
+United Kingdom,Fife,,GB-FIF,,2020-08-01,-27.0,-4.0,113.0,-21.0,-12.0,4.0
+United Kingdom,Fife,,GB-FIF,,2020-08-02,-20.0,-6.0,116.0,-18.0,-9.0,2.0
 United Kingdom,Flintshire,,GB-FLN,,2020-02-15,-7.0,-6.0,-36.0,-16.0,-3.0,2.0
 United Kingdom,Flintshire,,GB-FLN,,2020-02-16,-5.0,-4.0,-25.0,-10.0,-1.0,
 United Kingdom,Flintshire,,GB-FLN,,2020-02-17,7.0,0.0,,-2.0,-17.0,2.0
@@ -9239,6 +9347,8 @@ United Kingdom,Flintshire,,GB-FLN,,2020-07-28,-24.0,-6.0,,-5.0,-46.0,13.0
 United Kingdom,Flintshire,,GB-FLN,,2020-07-29,-23.0,-8.0,,-9.0,-47.0,12.0
 United Kingdom,Flintshire,,GB-FLN,,2020-07-30,-19.0,-3.0,,-20.0,-47.0,12.0
 United Kingdom,Flintshire,,GB-FLN,,2020-07-31,-25.0,-11.0,,-25.0,-49.0,10.0
+United Kingdom,Flintshire,,GB-FLN,,2020-08-01,-29.0,-11.0,,-20.0,-15.0,4.0
+United Kingdom,Flintshire,,GB-FLN,,2020-08-02,-31.0,-16.0,,-7.0,-14.0,
 United Kingdom,Glasgow City,,GB-GLG,,2020-02-15,-19.0,-8.0,-31.0,-18.0,-4.0,3.0
 United Kingdom,Glasgow City,,GB-GLG,,2020-02-16,3.0,-3.0,-1.0,-5.0,0.0,1.0
 United Kingdom,Glasgow City,,GB-GLG,,2020-02-17,0.0,0.0,2.0,0.0,1.0,1.0
@@ -9407,6 +9517,8 @@ United Kingdom,Glasgow City,,GB-GLG,,2020-07-28,-34.0,-16.0,27.0,-59.0,-54.0,14.
 United Kingdom,Glasgow City,,GB-GLG,,2020-07-29,-38.0,-16.0,32.0,-59.0,-53.0,14.0
 United Kingdom,Glasgow City,,GB-GLG,,2020-07-30,-37.0,-15.0,-23.0,-62.0,-55.0,15.0
 United Kingdom,Glasgow City,,GB-GLG,,2020-07-31,-42.0,-21.0,35.0,-55.0,-53.0,11.0
+United Kingdom,Glasgow City,,GB-GLG,,2020-08-01,-48.0,-19.0,5.0,-52.0,-22.0,5.0
+United Kingdom,Glasgow City,,GB-GLG,,2020-08-02,-37.0,-21.0,16.0,-46.0,-17.0,3.0
 United Kingdom,Gloucestershire,,GB-GLS,,2020-02-15,-16.0,-8.0,-49.0,-15.0,-6.0,3.0
 United Kingdom,Gloucestershire,,GB-GLS,,2020-02-16,-11.0,-4.0,-40.0,-6.0,-3.0,2.0
 United Kingdom,Gloucestershire,,GB-GLS,,2020-02-17,12.0,3.0,20.0,7.0,-17.0,3.0
@@ -9575,6 +9687,8 @@ United Kingdom,Gloucestershire,,GB-GLS,,2020-07-28,-22.0,-11.0,101.0,-19.0,-46.0
 United Kingdom,Gloucestershire,,GB-GLS,,2020-07-29,-23.0,-11.0,102.0,-17.0,-45.0,13.0
 United Kingdom,Gloucestershire,,GB-GLS,,2020-07-30,-20.0,-7.0,123.0,-13.0,-45.0,12.0
 United Kingdom,Gloucestershire,,GB-GLS,,2020-07-31,-25.0,-10.0,99.0,-4.0,-47.0,11.0
+United Kingdom,Gloucestershire,,GB-GLS,,2020-08-01,-30.0,-11.0,77.0,8.0,-12.0,4.0
+United Kingdom,Gloucestershire,,GB-GLS,,2020-08-02,-22.0,-14.0,96.0,4.0,-6.0,2.0
 United Kingdom,Greater London,,,,2020-02-15,-11.0,-8.0,-34.0,-10.0,-3.0,2.0
 United Kingdom,Greater London,,,,2020-02-16,-9.0,-11.0,-41.0,-9.0,-4.0,1.0
 United Kingdom,Greater London,,,,2020-02-17,11.0,4.0,28.0,-3.0,-13.0,2.0
@@ -9743,6 +9857,8 @@ United Kingdom,Greater London,,,,2020-07-28,-43.0,-17.0,49.0,-57.0,-58.0,18.0
 United Kingdom,Greater London,,,,2020-07-29,-42.0,-16.0,65.0,-56.0,-57.0,18.0
 United Kingdom,Greater London,,,,2020-07-30,-41.0,-13.0,75.0,-56.0,-58.0,17.0
 United Kingdom,Greater London,,,,2020-07-31,-46.0,-18.0,55.0,-54.0,-57.0,15.0
+United Kingdom,Greater London,,,,2020-08-01,-49.0,-21.0,26.0,-46.0,-19.0,4.0
+United Kingdom,Greater London,,,,2020-08-02,-44.0,-23.0,49.0,-45.0,-15.0,3.0
 United Kingdom,Greater Manchester,,,,2020-02-15,-8.0,-7.0,-35.0,-10.0,-3.0,2.0
 United Kingdom,Greater Manchester,,,,2020-02-16,1.0,-4.0,-8.0,-1.0,-1.0,0.0
 United Kingdom,Greater Manchester,,,,2020-02-17,7.0,-2.0,7.0,-2.0,-13.0,2.0
@@ -9911,6 +10027,8 @@ United Kingdom,Greater Manchester,,,,2020-07-28,-27.0,-14.0,20.0,-52.0,-48.0,14.
 United Kingdom,Greater Manchester,,,,2020-07-29,-29.0,-14.0,45.0,-49.0,-47.0,13.0
 United Kingdom,Greater Manchester,,,,2020-07-30,-27.0,-10.0,47.0,-51.0,-48.0,13.0
 United Kingdom,Greater Manchester,,,,2020-07-31,-37.0,-18.0,52.0,-50.0,-49.0,12.0
+United Kingdom,Greater Manchester,,,,2020-08-01,-41.0,-20.0,7.0,-45.0,-16.0,5.0
+United Kingdom,Greater Manchester,,,,2020-08-02,-34.0,-21.0,50.0,-41.0,-12.0,3.0
 United Kingdom,Gwynedd,,GB-GWN,,2020-02-15,-19.0,-5.0,-37.0,-21.0,-2.0,
 United Kingdom,Gwynedd,,GB-GWN,,2020-02-16,7.0,7.0,25.0,0.0,0.0,
 United Kingdom,Gwynedd,,GB-GWN,,2020-02-17,28.0,19.0,79.0,12.0,-16.0,2.0
@@ -10079,6 +10197,8 @@ United Kingdom,Gwynedd,,GB-GWN,,2020-07-28,-1.0,26.0,,33.0,-42.0,9.0
 United Kingdom,Gwynedd,,GB-GWN,,2020-07-29,-1.0,27.0,325.0,39.0,-42.0,10.0
 United Kingdom,Gwynedd,,GB-GWN,,2020-07-30,6.0,33.0,,47.0,-43.0,8.0
 United Kingdom,Gwynedd,,GB-GWN,,2020-07-31,1.0,37.0,,47.0,-42.0,8.0
+United Kingdom,Gwynedd,,GB-GWN,,2020-08-01,2.0,42.0,259.0,65.0,-12.0,
+United Kingdom,Gwynedd,,GB-GWN,,2020-08-02,21.0,42.0,,80.0,-4.0,
 United Kingdom,Hampshire,,GB-HAM,,2020-02-15,-15.0,-7.0,-40.0,-16.0,-5.0,3.0
 United Kingdom,Hampshire,,GB-HAM,,2020-02-16,-16.0,-9.0,-43.0,-18.0,-4.0,2.0
 United Kingdom,Hampshire,,GB-HAM,,2020-02-17,9.0,2.0,26.0,1.0,-17.0,2.0
@@ -10247,6 +10367,8 @@ United Kingdom,Hampshire,,GB-HAM,,2020-07-28,-22.0,-11.0,109.0,-30.0,-49.0,14.0
 United Kingdom,Hampshire,,GB-HAM,,2020-07-29,-20.0,-11.0,117.0,-30.0,-49.0,14.0
 United Kingdom,Hampshire,,GB-HAM,,2020-07-30,-16.0,-8.0,148.0,-26.0,-49.0,13.0
 United Kingdom,Hampshire,,GB-HAM,,2020-07-31,-24.0,-9.0,113.0,-14.0,-49.0,12.0
+United Kingdom,Hampshire,,GB-HAM,,2020-08-01,-30.0,-14.0,82.0,0.0,-7.0,4.0
+United Kingdom,Hampshire,,GB-HAM,,2020-08-02,-27.0,-17.0,93.0,2.0,-4.0,2.0
 United Kingdom,Hartlepool,,GB-HPL,,2020-02-15,-9.0,-1.0,-20.0,-7.0,-5.0,
 United Kingdom,Hartlepool,,GB-HPL,,2020-02-16,2.0,-3.0,,-7.0,-1.0,
 United Kingdom,Hartlepool,,GB-HPL,,2020-02-17,2.0,4.0,,4.0,-15.0,2.0
@@ -10415,6 +10537,8 @@ United Kingdom,Hartlepool,,GB-HPL,,2020-07-28,-26.0,-7.0,,-19.0,-38.0,10.0
 United Kingdom,Hartlepool,,GB-HPL,,2020-07-29,-25.0,-7.0,,-12.0,-36.0,9.0
 United Kingdom,Hartlepool,,GB-HPL,,2020-07-30,-20.0,-5.0,,-22.0,-40.0,10.0
 United Kingdom,Hartlepool,,GB-HPL,,2020-07-31,-26.0,-8.0,,7.0,-38.0,7.0
+United Kingdom,Hartlepool,,GB-HPL,,2020-08-01,-33.0,-9.0,,-1.0,-11.0,
+United Kingdom,Hartlepool,,GB-HPL,,2020-08-02,-24.0,-16.0,,-10.0,-3.0,
 United Kingdom,Herefordshire,,GB-HEF,,2020-02-15,-14.0,-8.0,-38.0,-19.0,-5.0,4.0
 United Kingdom,Herefordshire,,GB-HEF,,2020-02-16,-19.0,-9.0,-19.0,-22.0,-16.0,
 United Kingdom,Herefordshire,,GB-HEF,,2020-02-17,-2.0,2.0,23.0,-2.0,-29.0,7.0
@@ -10583,6 +10707,8 @@ United Kingdom,Herefordshire,,GB-HEF,,2020-07-28,-23.0,-8.0,86.0,-10.0,-35.0,10.
 United Kingdom,Herefordshire,,GB-HEF,,2020-07-29,-19.0,-8.0,92.0,-15.0,-36.0,10.0
 United Kingdom,Herefordshire,,GB-HEF,,2020-07-30,-15.0,-5.0,,-5.0,-36.0,9.0
 United Kingdom,Herefordshire,,GB-HEF,,2020-07-31,-24.0,-6.0,110.0,-12.0,-37.0,8.0
+United Kingdom,Herefordshire,,GB-HEF,,2020-08-01,-26.0,-7.0,81.0,-8.0,-8.0,3.0
+United Kingdom,Herefordshire,,GB-HEF,,2020-08-02,-24.0,-7.0,106.0,14.0,-2.0,
 United Kingdom,Hertfordshire,,GB-HRT,,2020-02-15,-12.0,-5.0,-34.0,-12.0,-5.0,2.0
 United Kingdom,Hertfordshire,,GB-HRT,,2020-02-16,-15.0,-9.0,-27.0,-6.0,-6.0,1.0
 United Kingdom,Hertfordshire,,GB-HRT,,2020-02-17,9.0,2.0,26.0,-4.0,-17.0,2.0
@@ -10751,6 +10877,8 @@ United Kingdom,Hertfordshire,,GB-HRT,,2020-07-28,-23.0,-14.0,84.0,-53.0,-53.0,16
 United Kingdom,Hertfordshire,,GB-HRT,,2020-07-29,-23.0,-14.0,79.0,-51.0,-52.0,16.0
 United Kingdom,Hertfordshire,,GB-HRT,,2020-07-30,-21.0,-12.0,97.0,-51.0,-53.0,15.0
 United Kingdom,Hertfordshire,,GB-HRT,,2020-07-31,-30.0,-14.0,79.0,-47.0,-52.0,13.0
+United Kingdom,Hertfordshire,,GB-HRT,,2020-08-01,-37.0,-18.0,48.0,-33.0,-9.0,3.0
+United Kingdom,Hertfordshire,,GB-HRT,,2020-08-02,-34.0,-20.0,77.0,-25.0,-3.0,2.0
 United Kingdom,Highland Council,,GB-HLD,,2020-02-15,10.0,3.0,0.0,2.0,-3.0,2.0
 United Kingdom,Highland Council,,GB-HLD,,2020-02-16,5.0,-2.0,7.0,-2.0,-3.0,1.0
 United Kingdom,Highland Council,,GB-HLD,,2020-02-17,18.0,7.0,36.0,15.0,-20.0,2.0
@@ -10919,6 +11047,8 @@ United Kingdom,Highland Council,,GB-HLD,,2020-07-28,3.0,19.0,187.0,16.0,-44.0,10
 United Kingdom,Highland Council,,GB-HLD,,2020-07-29,6.0,14.0,235.0,23.0,-43.0,10.0
 United Kingdom,Highland Council,,GB-HLD,,2020-07-30,8.0,18.0,191.0,13.0,-44.0,11.0
 United Kingdom,Highland Council,,GB-HLD,,2020-07-31,-2.0,11.0,261.0,12.0,-43.0,7.0
+United Kingdom,Highland Council,,GB-HLD,,2020-08-01,-7.0,19.0,212.0,25.0,-11.0,2.0
+United Kingdom,Highland Council,,GB-HLD,,2020-08-02,12.0,20.0,238.0,34.0,-8.0,2.0
 United Kingdom,Inverclyde,,GB-IVC,,2020-02-15,-19.0,-6.0,,-25.0,-5.0,
 United Kingdom,Inverclyde,,GB-IVC,,2020-02-16,2.0,-1.0,,-18.0,-2.0,
 United Kingdom,Inverclyde,,GB-IVC,,2020-02-17,-2.0,9.0,,6.0,2.0,0.0
@@ -11087,6 +11217,8 @@ United Kingdom,Inverclyde,,GB-IVC,,2020-07-28,-22.0,-7.0,,-18.0,-50.0,12.0
 United Kingdom,Inverclyde,,GB-IVC,,2020-07-29,-22.0,-6.0,,-12.0,-48.0,11.0
 United Kingdom,Inverclyde,,GB-IVC,,2020-07-30,-29.0,-9.0,,-31.0,-50.0,
 United Kingdom,Inverclyde,,GB-IVC,,2020-07-31,-32.0,-7.0,,-5.0,-47.0,
+United Kingdom,Inverclyde,,GB-IVC,,2020-08-01,-32.0,-6.0,,-2.0,-14.0,
+United Kingdom,Inverclyde,,GB-IVC,,2020-08-02,-22.0,-8.0,,0.0,-9.0,
 United Kingdom,Isle of Anglesey,,GB-AGY,,2020-02-15,-17.0,-2.0,-35.0,-1.0,-3.0,
 United Kingdom,Isle of Anglesey,,GB-AGY,,2020-02-16,12.0,5.0,7.0,4.0,0.0,
 United Kingdom,Isle of Anglesey,,GB-AGY,,2020-02-17,26.0,12.0,,11.0,-18.0,2.0
@@ -11255,6 +11387,8 @@ United Kingdom,Isle of Anglesey,,GB-AGY,,2020-07-28,6.0,29.0,,9.0,-41.0,
 United Kingdom,Isle of Anglesey,,GB-AGY,,2020-07-29,4.0,24.0,,9.0,-42.0,
 United Kingdom,Isle of Anglesey,,GB-AGY,,2020-07-30,15.0,35.0,,5.0,-40.0,
 United Kingdom,Isle of Anglesey,,GB-AGY,,2020-07-31,-4.0,35.0,,17.0,-40.0,
+United Kingdom,Isle of Anglesey,,GB-AGY,,2020-08-01,-13.0,39.0,,23.0,-3.0,
+United Kingdom,Isle of Anglesey,,GB-AGY,,2020-08-02,3.0,,,17.0,-6.0,
 United Kingdom,Isle of Wight,,GB-IOW,,2020-02-15,-12.0,-2.0,-21.0,-19.0,-3.0,3.0
 United Kingdom,Isle of Wight,,GB-IOW,,2020-02-16,-10.0,-1.0,-31.0,-15.0,-2.0,
 United Kingdom,Isle of Wight,,GB-IOW,,2020-02-17,21.0,12.0,71.0,15.0,-15.0,2.0
@@ -11423,6 +11557,8 @@ United Kingdom,Isle of Wight,,GB-IOW,,2020-07-28,14.0,12.0,237.0,-1.0,-38.0,9.0
 United Kingdom,Isle of Wight,,GB-IOW,,2020-07-29,12.0,13.0,247.0,4.0,-36.0,8.0
 United Kingdom,Isle of Wight,,GB-IOW,,2020-07-30,20.0,16.0,,9.0,-38.0,8.0
 United Kingdom,Isle of Wight,,GB-IOW,,2020-07-31,4.0,11.0,,18.0,-37.0,7.0
+United Kingdom,Isle of Wight,,GB-IOW,,2020-08-01,-2.0,14.0,198.0,39.0,-5.0,2.0
+United Kingdom,Isle of Wight,,GB-IOW,,2020-08-02,14.0,12.0,,33.0,-2.0,
 United Kingdom,Kent,,GB-KEN,,2020-02-15,-11.0,-5.0,-39.0,-2.0,-6.0,2.0
 United Kingdom,Kent,,GB-KEN,,2020-02-16,-16.0,-13.0,-50.0,-11.0,-7.0,2.0
 United Kingdom,Kent,,GB-KEN,,2020-02-17,10.0,0.0,20.0,1.0,-19.0,3.0
@@ -11591,6 +11727,8 @@ United Kingdom,Kent,,GB-KEN,,2020-07-28,-17.0,-10.0,107.0,-31.0,-46.0,13.0
 United Kingdom,Kent,,GB-KEN,,2020-07-29,-16.0,-9.0,125.0,-30.0,-46.0,12.0
 United Kingdom,Kent,,GB-KEN,,2020-07-30,-14.0,-6.0,152.0,-26.0,-46.0,12.0
 United Kingdom,Kent,,GB-KEN,,2020-07-31,-22.0,-8.0,163.0,-24.0,-46.0,11.0
+United Kingdom,Kent,,GB-KEN,,2020-08-01,-29.0,-10.0,99.0,-11.0,-10.0,3.0
+United Kingdom,Kent,,GB-KEN,,2020-08-02,-22.0,-15.0,116.0,-9.0,-6.0,2.0
 United Kingdom,Kingston upon Hull,,GB-KHL,,2020-02-15,-6.0,-3.0,-29.0,-7.0,2.0,2.0
 United Kingdom,Kingston upon Hull,,GB-KHL,,2020-02-16,3.0,-5.0,-26.0,9.0,-4.0,1.0
 United Kingdom,Kingston upon Hull,,GB-KHL,,2020-02-17,7.0,0.0,-7.0,-2.0,-10.0,2.0
@@ -11759,6 +11897,8 @@ United Kingdom,Kingston upon Hull,,GB-KHL,,2020-07-28,-21.0,-10.0,56.0,-35.0,-39
 United Kingdom,Kingston upon Hull,,GB-KHL,,2020-07-29,-24.0,-10.0,48.0,-31.0,-39.0,9.0
 United Kingdom,Kingston upon Hull,,GB-KHL,,2020-07-30,-23.0,-6.0,52.0,-37.0,-38.0,9.0
 United Kingdom,Kingston upon Hull,,GB-KHL,,2020-07-31,-29.0,-10.0,,-34.0,-39.0,7.0
+United Kingdom,Kingston upon Hull,,GB-KHL,,2020-08-01,-37.0,-13.0,36.0,-27.0,-14.0,2.0
+United Kingdom,Kingston upon Hull,,GB-KHL,,2020-08-02,-27.0,-11.0,118.0,-24.0,-12.0,0.0
 United Kingdom,Lancashire,,GB-LAN,,2020-02-15,-12.0,-7.0,-29.0,-13.0,-4.0,2.0
 United Kingdom,Lancashire,,GB-LAN,,2020-02-16,1.0,-3.0,2.0,-3.0,0.0,0.0
 United Kingdom,Lancashire,,GB-LAN,,2020-02-17,8.0,-1.0,31.0,-4.0,-17.0,3.0
@@ -11927,6 +12067,8 @@ United Kingdom,Lancashire,,GB-LAN,,2020-07-28,-15.0,-9.0,110.0,-29.0,-42.0,12.0
 United Kingdom,Lancashire,,GB-LAN,,2020-07-29,-13.0,-9.0,131.0,-27.0,-42.0,12.0
 United Kingdom,Lancashire,,GB-LAN,,2020-07-30,-14.0,-5.0,141.0,-27.0,-43.0,11.0
 United Kingdom,Lancashire,,GB-LAN,,2020-07-31,-22.0,-10.0,173.0,-18.0,-44.0,10.0
+United Kingdom,Lancashire,,GB-LAN,,2020-08-01,-27.0,-12.0,96.0,-16.0,-11.0,4.0
+United Kingdom,Lancashire,,GB-LAN,,2020-08-02,-16.0,-14.0,126.0,-8.0,-7.0,2.0
 United Kingdom,Leicester,,GB-LCE,,2020-02-15,-7.0,-6.0,-28.0,-6.0,-2.0,1.0
 United Kingdom,Leicester,,GB-LCE,,2020-02-16,-6.0,-5.0,-22.0,-8.0,-2.0,1.0
 United Kingdom,Leicester,,GB-LCE,,2020-02-17,7.0,1.0,11.0,-7.0,-13.0,2.0
@@ -12095,6 +12237,8 @@ United Kingdom,Leicester,,GB-LCE,,2020-07-28,-49.0,-18.0,70.0,-59.0,-46.0,14.0
 United Kingdom,Leicester,,GB-LCE,,2020-07-29,-51.0,-18.0,51.0,-61.0,-46.0,15.0
 United Kingdom,Leicester,,GB-LCE,,2020-07-30,-46.0,-10.0,61.0,-58.0,-47.0,14.0
 United Kingdom,Leicester,,GB-LCE,,2020-07-31,-57.0,-21.0,35.0,-57.0,-50.0,13.0
+United Kingdom,Leicester,,GB-LCE,,2020-08-01,-63.0,-23.0,23.0,-55.0,-22.0,6.0
+United Kingdom,Leicester,,GB-LCE,,2020-08-02,-55.0,-21.0,68.0,-48.0,-16.0,4.0
 United Kingdom,Leicestershire,,GB-LEC,,2020-02-15,-12.0,-6.0,-43.0,-7.0,-4.0,2.0
 United Kingdom,Leicestershire,,GB-LEC,,2020-02-16,-8.0,-7.0,-44.0,3.0,-3.0,1.0
 United Kingdom,Leicestershire,,GB-LEC,,2020-02-17,11.0,0.0,16.0,4.0,-17.0,2.0
@@ -12263,6 +12407,8 @@ United Kingdom,Leicestershire,,GB-LEC,,2020-07-28,-21.0,-11.0,90.0,-29.0,-47.0,1
 United Kingdom,Leicestershire,,GB-LEC,,2020-07-29,-22.0,-12.0,94.0,-28.0,-47.0,15.0
 United Kingdom,Leicestershire,,GB-LEC,,2020-07-30,-17.0,-7.0,105.0,-27.0,-48.0,14.0
 United Kingdom,Leicestershire,,GB-LEC,,2020-07-31,-29.0,-10.0,76.0,-26.0,-49.0,12.0
+United Kingdom,Leicestershire,,GB-LEC,,2020-08-01,-33.0,-15.0,50.0,-23.0,-11.0,4.0
+United Kingdom,Leicestershire,,GB-LEC,,2020-08-02,-24.0,-15.0,72.0,-14.0,-4.0,2.0
 United Kingdom,Lincolnshire,,GB-LIN,,2020-02-15,-12.0,-5.0,-25.0,-10.0,-3.0,2.0
 United Kingdom,Lincolnshire,,GB-LIN,,2020-02-16,-9.0,-7.0,-26.0,-4.0,-4.0,1.0
 United Kingdom,Lincolnshire,,GB-LIN,,2020-02-17,11.0,0.0,30.0,-1.0,-17.0,3.0
@@ -12431,6 +12577,8 @@ United Kingdom,Lincolnshire,,GB-LIN,,2020-07-28,-8.0,4.0,195.0,-24.0,-40.0,10.0
 United Kingdom,Lincolnshire,,GB-LIN,,2020-07-29,-7.0,3.0,203.0,-23.0,-39.0,9.0
 United Kingdom,Lincolnshire,,GB-LIN,,2020-07-30,-6.0,7.0,240.0,-22.0,-40.0,9.0
 United Kingdom,Lincolnshire,,GB-LIN,,2020-07-31,-5.0,5.0,274.0,-18.0,-40.0,8.0
+United Kingdom,Lincolnshire,,GB-LIN,,2020-08-01,-14.0,8.0,243.0,-13.0,-12.0,3.0
+United Kingdom,Lincolnshire,,GB-LIN,,2020-08-02,2.0,6.0,235.0,4.0,-7.0,1.0
 United Kingdom,Lisburn and Castlereagh,,GB-LBC,,2020-02-15,-10.0,-6.0,-67.0,-22.0,-3.0,2.0
 United Kingdom,Lisburn and Castlereagh,,GB-LBC,,2020-02-16,0.0,-11.0,-49.0,-5.0,-5.0,
 United Kingdom,Lisburn and Castlereagh,,GB-LBC,,2020-02-17,15.0,-7.0,,-13.0,-17.0,3.0
@@ -12599,6 +12747,8 @@ United Kingdom,Lisburn and Castlereagh,,GB-LBC,,2020-07-28,-9.0,-14.0,,-42.0,-48
 United Kingdom,Lisburn and Castlereagh,,GB-LBC,,2020-07-29,-8.0,-15.0,,-38.0,-47.0,14.0
 United Kingdom,Lisburn and Castlereagh,,GB-LBC,,2020-07-30,-7.0,-15.0,,-29.0,-48.0,15.0
 United Kingdom,Lisburn and Castlereagh,,GB-LBC,,2020-07-31,-14.0,-18.0,,-32.0,-47.0,11.0
+United Kingdom,Lisburn and Castlereagh,,GB-LBC,,2020-08-01,-27.0,-20.0,-9.0,,-3.0,2.0
+United Kingdom,Lisburn and Castlereagh,,GB-LBC,,2020-08-02,-14.0,-26.0,-6.0,-22.0,-7.0,
 United Kingdom,Luton,,GB-LUT,,2020-02-15,-12.0,-5.0,-50.0,-16.0,-2.0,2.0
 United Kingdom,Luton,,GB-LUT,,2020-02-16,-4.0,-7.0,-35.0,-5.0,-4.0,1.0
 United Kingdom,Luton,,GB-LUT,,2020-02-17,9.0,0.0,,7.0,-15.0,2.0
@@ -12767,6 +12917,8 @@ United Kingdom,Luton,,GB-LUT,,2020-07-28,-28.0,-5.0,,-48.0,-44.0,13.0
 United Kingdom,Luton,,GB-LUT,,2020-07-29,-30.0,-5.0,,-46.0,-43.0,13.0
 United Kingdom,Luton,,GB-LUT,,2020-07-30,-21.0,7.0,,-45.0,-44.0,12.0
 United Kingdom,Luton,,GB-LUT,,2020-07-31,-37.0,-11.0,,-48.0,-46.0,10.0
+United Kingdom,Luton,,GB-LUT,,2020-08-01,-36.0,-7.0,,-33.0,-12.0,3.0
+United Kingdom,Luton,,GB-LUT,,2020-08-02,-27.0,-15.0,,-38.0,-7.0,2.0
 United Kingdom,Medway,,GB-MDW,,2020-02-15,-11.0,0.0,-31.0,-8.0,-3.0,2.0
 United Kingdom,Medway,,GB-MDW,,2020-02-16,-16.0,-8.0,-61.0,-24.0,-7.0,2.0
 United Kingdom,Medway,,GB-MDW,,2020-02-17,11.0,6.0,17.0,1.0,-16.0,3.0
@@ -12935,6 +13087,8 @@ United Kingdom,Medway,,GB-MDW,,2020-07-28,-19.0,-8.0,99.0,-40.0,-45.0,13.0
 United Kingdom,Medway,,GB-MDW,,2020-07-29,-22.0,-9.0,112.0,-35.0,-44.0,12.0
 United Kingdom,Medway,,GB-MDW,,2020-07-30,-22.0,-5.0,96.0,-29.0,-45.0,12.0
 United Kingdom,Medway,,GB-MDW,,2020-07-31,-29.0,-9.0,93.0,-25.0,-45.0,11.0
+United Kingdom,Medway,,GB-MDW,,2020-08-01,-38.0,-10.0,53.0,-11.0,-11.0,3.0
+United Kingdom,Medway,,GB-MDW,,2020-08-02,-31.0,-9.0,49.0,-10.0,-7.0,1.0
 United Kingdom,Merseyside,,,,2020-02-15,-10.0,-6.0,-33.0,-8.0,-3.0,2.0
 United Kingdom,Merseyside,,,,2020-02-16,-3.0,-3.0,-17.0,-7.0,-1.0,1.0
 United Kingdom,Merseyside,,,,2020-02-17,8.0,-1.0,28.0,2.0,-15.0,2.0
@@ -13103,6 +13257,8 @@ United Kingdom,Merseyside,,,,2020-07-28,-23.0,-9.0,44.0,-39.0,-47.0,13.0
 United Kingdom,Merseyside,,,,2020-07-29,-23.0,-12.0,68.0,-39.0,-45.0,12.0
 United Kingdom,Merseyside,,,,2020-07-30,-21.0,-9.0,70.0,-38.0,-46.0,12.0
 United Kingdom,Merseyside,,,,2020-07-31,-23.0,-11.0,110.0,-33.0,-46.0,10.0
+United Kingdom,Merseyside,,,,2020-08-01,-32.0,-16.0,25.0,-28.0,-14.0,4.0
+United Kingdom,Merseyside,,,,2020-08-02,-25.0,-18.0,57.0,-30.0,-10.0,2.0
 United Kingdom,Merthyr Tydfil County Borough,,GB-MTY,,2020-02-15,-21.0,-13.0,,-16.0,-9.0,
 United Kingdom,Merthyr Tydfil County Borough,,GB-MTY,,2020-02-16,-32.0,-15.0,,,-11.0,
 United Kingdom,Merthyr Tydfil County Borough,,GB-MTY,,2020-02-17,7.0,3.0,,-15.0,-17.0,3.0
@@ -13271,6 +13427,8 @@ United Kingdom,Merthyr Tydfil County Borough,,GB-MTY,,2020-07-28,-19.0,-5.0,,-20
 United Kingdom,Merthyr Tydfil County Borough,,GB-MTY,,2020-07-29,-21.0,-7.0,,-20.0,-40.0,
 United Kingdom,Merthyr Tydfil County Borough,,GB-MTY,,2020-07-30,-20.0,1.0,,-28.0,-41.0,
 United Kingdom,Merthyr Tydfil County Borough,,GB-MTY,,2020-07-31,-32.0,-6.0,,-26.0,-42.0,
+United Kingdom,Merthyr Tydfil County Borough,,GB-MTY,,2020-08-01,-36.0,-13.0,,,-12.0,
+United Kingdom,Merthyr Tydfil County Borough,,GB-MTY,,2020-08-02,-30.0,-9.0,,,-3.0,
 United Kingdom,Mid and East Antrim,,GB-MEA,,2020-02-15,-13.0,-5.0,-35.0,-14.0,-3.0,3.0
 United Kingdom,Mid and East Antrim,,GB-MEA,,2020-02-16,-4.0,-5.0,-15.0,0.0,3.0,
 United Kingdom,Mid and East Antrim,,GB-MEA,,2020-02-17,3.0,-2.0,,-7.0,-13.0,3.0
@@ -13439,6 +13597,8 @@ United Kingdom,Mid and East Antrim,,GB-MEA,,2020-07-28,-12.0,-4.0,,-38.0,-40.0,1
 United Kingdom,Mid and East Antrim,,GB-MEA,,2020-07-29,-10.0,-2.0,,-32.0,-40.0,11.0
 United Kingdom,Mid and East Antrim,,GB-MEA,,2020-07-30,-13.0,-6.0,,-37.0,-40.0,12.0
 United Kingdom,Mid and East Antrim,,GB-MEA,,2020-07-31,-15.0,-5.0,,-30.0,-39.0,9.0
+United Kingdom,Mid and East Antrim,,GB-MEA,,2020-08-01,-21.0,-8.0,,-20.0,-7.0,3.0
+United Kingdom,Mid and East Antrim,,GB-MEA,,2020-08-02,-8.0,-9.0,,-7.0,-2.0,
 United Kingdom,Mid Ulster,,GB-MUL,,2020-02-15,-10.0,-6.0,,-12.0,-4.0,
 United Kingdom,Mid Ulster,,GB-MUL,,2020-02-16,-2.0,-7.0,,,0.0,
 United Kingdom,Mid Ulster,,GB-MUL,,2020-02-17,4.0,-1.0,,-9.0,-13.0,2.0
@@ -13607,6 +13767,8 @@ United Kingdom,Mid Ulster,,GB-MUL,,2020-07-28,-19.0,-5.0,,-25.0,-34.0,10.0
 United Kingdom,Mid Ulster,,GB-MUL,,2020-07-29,-24.0,-3.0,,-23.0,-34.0,10.0
 United Kingdom,Mid Ulster,,GB-MUL,,2020-07-30,-19.0,-4.0,,-32.0,-35.0,11.0
 United Kingdom,Mid Ulster,,GB-MUL,,2020-07-31,-23.0,-5.0,,-33.0,-33.0,8.0
+United Kingdom,Mid Ulster,,GB-MUL,,2020-08-01,-29.0,-2.0,,-24.0,-9.0,
+United Kingdom,Mid Ulster,,GB-MUL,,2020-08-02,-21.0,-6.0,,-20.0,-1.0,
 United Kingdom,Middlesbrough,,GB-MDB,,2020-02-15,9.0,-6.0,-35.0,-3.0,-2.0,1.0
 United Kingdom,Middlesbrough,,GB-MDB,,2020-02-16,-2.0,-2.0,-20.0,3.0,2.0,
 United Kingdom,Middlesbrough,,GB-MDB,,2020-02-17,-1.0,-4.0,,-5.0,-12.0,2.0
@@ -13775,6 +13937,8 @@ United Kingdom,Middlesbrough,,GB-MDB,,2020-07-28,-24.0,-9.0,,-45.0,-37.0,9.0
 United Kingdom,Middlesbrough,,GB-MDB,,2020-07-29,-24.0,-8.0,,-46.0,-38.0,8.0
 United Kingdom,Middlesbrough,,GB-MDB,,2020-07-30,-21.0,-4.0,,-46.0,-39.0,9.0
 United Kingdom,Middlesbrough,,GB-MDB,,2020-07-31,-32.0,-13.0,,-39.0,-38.0,7.0
+United Kingdom,Middlesbrough,,GB-MDB,,2020-08-01,-33.0,-15.0,14.0,-40.0,-12.0,3.0
+United Kingdom,Middlesbrough,,GB-MDB,,2020-08-02,-28.0,-16.0,2.0,-35.0,-6.0,
 United Kingdom,Midlothian,,GB-MLN,,2020-02-15,-7.0,-7.0,-35.0,-15.0,-5.0,
 United Kingdom,Midlothian,,GB-MLN,,2020-02-16,-3.0,-2.0,-25.0,-4.0,-1.0,
 United Kingdom,Midlothian,,GB-MLN,,2020-02-17,8.0,-1.0,,2.0,-1.0,1.0
@@ -13943,6 +14107,8 @@ United Kingdom,Midlothian,,GB-MLN,,2020-07-28,-4.0,-4.0,,-5.0,-50.0,14.0
 United Kingdom,Midlothian,,GB-MLN,,2020-07-29,-4.0,-4.0,,-13.0,-50.0,14.0
 United Kingdom,Midlothian,,GB-MLN,,2020-07-30,0.0,-3.0,,-35.0,-52.0,15.0
 United Kingdom,Midlothian,,GB-MLN,,2020-07-31,-27.0,-13.0,,-27.0,-49.0,10.0
+United Kingdom,Midlothian,,GB-MLN,,2020-08-01,-25.0,-10.0,,-30.0,-15.0,
+United Kingdom,Midlothian,,GB-MLN,,2020-08-02,-21.0,-13.0,43.0,-27.0,-13.0,
 United Kingdom,Milton Keynes,,GB-MIK,,2020-02-15,-8.0,-7.0,-34.0,-5.0,-2.0,2.0
 United Kingdom,Milton Keynes,,GB-MIK,,2020-02-16,-6.0,-4.0,-29.0,3.0,-3.0,1.0
 United Kingdom,Milton Keynes,,GB-MIK,,2020-02-17,13.0,1.0,40.0,6.0,-14.0,2.0
@@ -14111,6 +14277,8 @@ United Kingdom,Milton Keynes,,GB-MIK,,2020-07-28,-22.0,-16.0,75.0,-48.0,-50.0,15
 United Kingdom,Milton Keynes,,GB-MIK,,2020-07-29,-24.0,-17.0,84.0,-45.0,-50.0,15.0
 United Kingdom,Milton Keynes,,GB-MIK,,2020-07-30,-22.0,-13.0,126.0,-46.0,-52.0,15.0
 United Kingdom,Milton Keynes,,GB-MIK,,2020-07-31,-32.0,-19.0,98.0,-43.0,-50.0,13.0
+United Kingdom,Milton Keynes,,GB-MIK,,2020-08-01,-39.0,-24.0,85.0,-34.0,-10.0,3.0
+United Kingdom,Milton Keynes,,GB-MIK,,2020-08-02,-37.0,-26.0,102.0,-28.0,-7.0,2.0
 United Kingdom,Monmouthshire,,GB-MON,,2020-02-15,-22.0,-11.0,-50.0,-14.0,-10.0,
 United Kingdom,Monmouthshire,,GB-MON,,2020-02-16,-15.0,-6.0,-15.0,-21.0,-9.0,
 United Kingdom,Monmouthshire,,GB-MON,,2020-02-17,16.0,4.0,22.0,0.0,-24.0,4.0
@@ -14279,6 +14447,8 @@ United Kingdom,Monmouthshire,,GB-MON,,2020-07-28,-26.0,2.0,,-29.0,-48.0,13.0
 United Kingdom,Monmouthshire,,GB-MON,,2020-07-29,-22.0,4.0,,-21.0,-47.0,12.0
 United Kingdom,Monmouthshire,,GB-MON,,2020-07-30,-17.0,8.0,,-24.0,-49.0,12.0
 United Kingdom,Monmouthshire,,GB-MON,,2020-07-31,-18.0,2.0,,-8.0,-47.0,9.0
+United Kingdom,Monmouthshire,,GB-MON,,2020-08-01,-24.0,0.0,68.0,-5.0,-16.0,
+United Kingdom,Monmouthshire,,GB-MON,,2020-08-02,-16.0,0.0,82.0,8.0,-10.0,
 United Kingdom,Moray,,GB-MRY,,2020-02-15,1.0,0.0,0.0,,-4.0,
 United Kingdom,Moray,,GB-MRY,,2020-02-16,1.0,2.0,6.0,,-3.0,
 United Kingdom,Moray,,GB-MRY,,2020-02-17,4.0,4.0,14.0,6.0,-1.0,1.0
@@ -14447,6 +14617,8 @@ United Kingdom,Moray,,GB-MRY,,2020-07-28,-12.0,0.0,,-14.0,-39.0,11.0
 United Kingdom,Moray,,GB-MRY,,2020-07-29,-11.0,-3.0,,-12.0,-40.0,9.0
 United Kingdom,Moray,,GB-MRY,,2020-07-30,-10.0,0.0,,-16.0,-40.0,9.0
 United Kingdom,Moray,,GB-MRY,,2020-07-31,-22.0,-7.0,,-4.0,-40.0,7.0
+United Kingdom,Moray,,GB-MRY,,2020-08-01,-22.0,-1.0,,-13.0,-13.0,
+United Kingdom,Moray,,GB-MRY,,2020-08-02,-11.0,-3.0,,,-7.0,
 United Kingdom,Na h-Eileanan an Iar,,,,2020-02-15,-8.0,-3.0,,,,
 United Kingdom,Na h-Eileanan an Iar,,,,2020-02-17,,0.0,,,4.0,
 United Kingdom,Na h-Eileanan an Iar,,,,2020-02-18,,6.0,,,4.0,
@@ -14750,6 +14922,8 @@ United Kingdom,Neath Port Talbot Principle Area,,GB-NTL,,2020-07-28,-22.0,8.0,,-
 United Kingdom,Neath Port Talbot Principle Area,,GB-NTL,,2020-07-29,-20.0,5.0,93.0,-39.0,-44.0,11.0
 United Kingdom,Neath Port Talbot Principle Area,,GB-NTL,,2020-07-30,-9.0,8.0,,-35.0,-44.0,10.0
 United Kingdom,Neath Port Talbot Principle Area,,GB-NTL,,2020-07-31,-19.0,11.0,,-39.0,-45.0,9.0
+United Kingdom,Neath Port Talbot Principle Area,,GB-NTL,,2020-08-01,-26.0,10.0,37.0,-36.0,-14.0,
+United Kingdom,Neath Port Talbot Principle Area,,GB-NTL,,2020-08-02,-14.0,5.0,121.0,-30.0,-5.0,
 United Kingdom,Newport,,GB-NWP,,2020-02-15,-17.0,-6.0,-52.0,-17.0,-5.0,3.0
 United Kingdom,Newport,,GB-NWP,,2020-02-16,-12.0,-4.0,-37.0,-13.0,-3.0,2.0
 United Kingdom,Newport,,GB-NWP,,2020-02-17,1.0,3.0,,-4.0,-15.0,3.0
@@ -14918,6 +15092,8 @@ United Kingdom,Newport,,GB-NWP,,2020-07-28,-32.0,-7.0,,-39.0,-47.0,13.0
 United Kingdom,Newport,,GB-NWP,,2020-07-29,-32.0,-7.0,,-39.0,-46.0,13.0
 United Kingdom,Newport,,GB-NWP,,2020-07-30,-27.0,-6.0,,-39.0,-46.0,12.0
 United Kingdom,Newport,,GB-NWP,,2020-07-31,-37.0,-10.0,42.0,-37.0,-48.0,10.0
+United Kingdom,Newport,,GB-NWP,,2020-08-01,-41.0,-13.0,52.0,-28.0,-15.0,4.0
+United Kingdom,Newport,,GB-NWP,,2020-08-02,-35.0,-14.0,81.0,-25.0,-7.0,2.0
 United Kingdom,"Newry, Mourne and Down",,GB-NMD,,2020-02-15,-14.0,-5.0,-43.0,-16.0,-3.0,3.0
 United Kingdom,"Newry, Mourne and Down",,GB-NMD,,2020-02-16,-5.0,-6.0,-34.0,-14.0,1.0,
 United Kingdom,"Newry, Mourne and Down",,GB-NMD,,2020-02-17,13.0,0.0,,-10.0,-15.0,2.0
@@ -15086,6 +15262,8 @@ United Kingdom,"Newry, Mourne and Down",,GB-NMD,,2020-07-28,0.0,3.0,,-7.0,-38.0,
 United Kingdom,"Newry, Mourne and Down",,GB-NMD,,2020-07-29,-2.0,3.0,,-18.0,-38.0,10.0
 United Kingdom,"Newry, Mourne and Down",,GB-NMD,,2020-07-30,-2.0,4.0,,-14.0,-38.0,11.0
 United Kingdom,"Newry, Mourne and Down",,GB-NMD,,2020-07-31,-8.0,7.0,,-4.0,-38.0,9.0
+United Kingdom,"Newry, Mourne and Down",,GB-NMD,,2020-08-01,-15.0,7.0,110.0,16.0,-3.0,3.0
+United Kingdom,"Newry, Mourne and Down",,GB-NMD,,2020-08-02,-1.0,10.0,106.0,26.0,-2.0,
 United Kingdom,Norfolk,,GB-NFK,,2020-02-15,-4.0,-3.0,-23.0,5.0,-3.0,2.0
 United Kingdom,Norfolk,,GB-NFK,,2020-02-16,-7.0,-7.0,-28.0,-4.0,-3.0,2.0
 United Kingdom,Norfolk,,GB-NFK,,2020-02-17,16.0,3.0,59.0,0.0,-16.0,2.0
@@ -15254,6 +15432,8 @@ United Kingdom,Norfolk,,GB-NFK,,2020-07-28,-9.0,-1.0,226.0,-29.0,-41.0,11.0
 United Kingdom,Norfolk,,GB-NFK,,2020-07-29,-9.0,-2.0,249.0,-29.0,-40.0,10.0
 United Kingdom,Norfolk,,GB-NFK,,2020-07-30,-6.0,2.0,272.0,-31.0,-40.0,10.0
 United Kingdom,Norfolk,,GB-NFK,,2020-07-31,-12.0,1.0,306.0,-31.0,-41.0,9.0
+United Kingdom,Norfolk,,GB-NFK,,2020-08-01,-21.0,-3.0,172.0,-24.0,-10.0,3.0
+United Kingdom,Norfolk,,GB-NFK,,2020-08-02,-8.0,-5.0,200.0,-19.0,-6.0,1.0
 United Kingdom,North Ayrshire Council,,GB-NAY,,2020-02-15,-14.0,-2.0,-33.0,-26.0,0.0,3.0
 United Kingdom,North Ayrshire Council,,GB-NAY,,2020-02-16,-2.0,0.0,-4.0,-16.0,1.0,
 United Kingdom,North Ayrshire Council,,GB-NAY,,2020-02-17,2.0,5.0,,6.0,1.0,1.0
@@ -15422,6 +15602,8 @@ United Kingdom,North Ayrshire Council,,GB-NAY,,2020-07-28,-3.0,8.0,,-5.0,-42.0,1
 United Kingdom,North Ayrshire Council,,GB-NAY,,2020-07-29,1.0,7.0,,23.0,-42.0,9.0
 United Kingdom,North Ayrshire Council,,GB-NAY,,2020-07-30,-13.0,3.0,,-16.0,-44.0,12.0
 United Kingdom,North Ayrshire Council,,GB-NAY,,2020-07-31,-10.0,4.0,,24.0,-40.0,9.0
+United Kingdom,North Ayrshire Council,,GB-NAY,,2020-08-01,-15.0,6.0,,33.0,-7.0,3.0
+United Kingdom,North Ayrshire Council,,GB-NAY,,2020-08-02,-6.0,2.0,,41.0,-6.0,
 United Kingdom,North East Lincolnshire,,GB-NEL,,2020-02-15,-8.0,-3.0,-40.0,-5.0,-4.0,1.0
 United Kingdom,North East Lincolnshire,,GB-NEL,,2020-02-16,0.0,-4.0,-33.0,-18.0,-1.0,1.0
 United Kingdom,North East Lincolnshire,,GB-NEL,,2020-02-17,7.0,-2.0,39.0,-6.0,-15.0,2.0
@@ -15590,6 +15772,8 @@ United Kingdom,North East Lincolnshire,,GB-NEL,,2020-07-28,-15.0,-4.0,,-19.0,-33
 United Kingdom,North East Lincolnshire,,GB-NEL,,2020-07-29,-16.0,-5.0,,-15.0,-33.0,8.0
 United Kingdom,North East Lincolnshire,,GB-NEL,,2020-07-30,-12.0,-4.0,,-18.0,-33.0,8.0
 United Kingdom,North East Lincolnshire,,GB-NEL,,2020-07-31,-15.0,-6.0,,-6.0,-34.0,6.0
+United Kingdom,North East Lincolnshire,,GB-NEL,,2020-08-01,-26.0,-9.0,139.0,-2.0,-13.0,1.0
+United Kingdom,North East Lincolnshire,,GB-NEL,,2020-08-02,-12.0,-5.0,,2.0,-9.0,0.0
 United Kingdom,North Lanarkshire,,GB-NLK,,2020-02-15,-7.0,-3.0,,-17.0,-2.0,2.0
 United Kingdom,North Lanarkshire,,GB-NLK,,2020-02-16,-4.0,-5.0,,-7.0,1.0,1.0
 United Kingdom,North Lanarkshire,,GB-NLK,,2020-02-17,1.0,0.0,,-2.0,0.0,1.0
@@ -15758,6 +15942,8 @@ United Kingdom,North Lanarkshire,,GB-NLK,,2020-07-28,-19.0,-9.0,,-41.0,-46.0,12.
 United Kingdom,North Lanarkshire,,GB-NLK,,2020-07-29,-21.0,-9.0,,-39.0,-46.0,12.0
 United Kingdom,North Lanarkshire,,GB-NLK,,2020-07-30,-24.0,-10.0,,-42.0,-47.0,13.0
 United Kingdom,North Lanarkshire,,GB-NLK,,2020-07-31,-30.0,-12.0,,-35.0,-46.0,9.0
+United Kingdom,North Lanarkshire,,GB-NLK,,2020-08-01,-33.0,-10.0,,-31.0,-12.0,3.0
+United Kingdom,North Lanarkshire,,GB-NLK,,2020-08-02,-26.0,-15.0,,-26.0,-8.0,2.0
 United Kingdom,North Lincolnshire,,GB-NLN,,2020-02-15,-8.0,-6.0,-35.0,-9.0,-4.0,2.0
 United Kingdom,North Lincolnshire,,GB-NLN,,2020-02-16,-5.0,-6.0,-31.0,-21.0,-1.0,
 United Kingdom,North Lincolnshire,,GB-NLN,,2020-02-17,6.0,-4.0,-1.0,-9.0,-14.0,2.0
@@ -15926,6 +16112,8 @@ United Kingdom,North Lincolnshire,,GB-NLN,,2020-07-28,-19.0,-7.0,39.0,-17.0,-35.
 United Kingdom,North Lincolnshire,,GB-NLN,,2020-07-29,-20.0,-5.0,36.0,-14.0,-35.0,8.0
 United Kingdom,North Lincolnshire,,GB-NLN,,2020-07-30,-14.0,-4.0,46.0,-18.0,-35.0,8.0
 United Kingdom,North Lincolnshire,,GB-NLN,,2020-07-31,-23.0,-6.0,51.0,-19.0,-37.0,8.0
+United Kingdom,North Lincolnshire,,GB-NLN,,2020-08-01,-26.0,-5.0,42.0,-11.0,-10.0,3.0
+United Kingdom,North Lincolnshire,,GB-NLN,,2020-08-02,-21.0,-8.0,59.0,-8.0,-3.0,
 United Kingdom,North Somerset,,GB-NSM,,2020-02-15,-18.0,-7.0,-53.0,-15.0,-7.0,3.0
 United Kingdom,North Somerset,,GB-NSM,,2020-02-16,-13.0,-6.0,-37.0,-2.0,-2.0,1.0
 United Kingdom,North Somerset,,GB-NSM,,2020-02-17,8.0,2.0,26.0,10.0,-16.0,2.0
@@ -16094,6 +16282,8 @@ United Kingdom,North Somerset,,GB-NSM,,2020-07-28,-8.0,-7.0,160.0,-36.0,-47.0,13
 United Kingdom,North Somerset,,GB-NSM,,2020-07-29,-12.0,-10.0,138.0,-30.0,-47.0,13.0
 United Kingdom,North Somerset,,GB-NSM,,2020-07-30,1.0,-5.0,221.0,-38.0,-47.0,12.0
 United Kingdom,North Somerset,,GB-NSM,,2020-07-31,-7.0,-8.0,163.0,-24.0,-47.0,11.0
+United Kingdom,North Somerset,,GB-NSM,,2020-08-01,-18.0,-11.0,77.0,-13.0,-9.0,4.0
+United Kingdom,North Somerset,,GB-NSM,,2020-08-02,-8.0,-14.0,90.0,-29.0,-8.0,2.0
 United Kingdom,North Yorkshire,,GB-NYK,,2020-02-15,-11.0,-7.0,-36.0,-11.0,-6.0,3.0
 United Kingdom,North Yorkshire,,GB-NYK,,2020-02-16,6.0,0.0,2.0,5.0,-2.0,1.0
 United Kingdom,North Yorkshire,,GB-NYK,,2020-02-17,17.0,4.0,41.0,8.0,-17.0,2.0
@@ -16262,6 +16452,8 @@ United Kingdom,North Yorkshire,,GB-NYK,,2020-07-28,6.0,8.0,213.0,-12.0,-42.0,11.
 United Kingdom,North Yorkshire,,GB-NYK,,2020-07-29,6.0,7.0,212.0,-12.0,-42.0,11.0
 United Kingdom,North Yorkshire,,GB-NYK,,2020-07-30,5.0,7.0,196.0,-12.0,-43.0,11.0
 United Kingdom,North Yorkshire,,GB-NYK,,2020-07-31,0.0,11.0,258.0,-1.0,-43.0,9.0
+United Kingdom,North Yorkshire,,GB-NYK,,2020-08-01,-6.0,10.0,131.0,7.0,-12.0,4.0
+United Kingdom,North Yorkshire,,GB-NYK,,2020-08-02,11.0,10.0,173.0,10.0,-8.0,2.0
 United Kingdom,Northamptonshire,,GB-NTH,,2020-02-15,-11.0,-4.0,-27.0,-5.0,-6.0,2.0
 United Kingdom,Northamptonshire,,GB-NTH,,2020-02-16,-4.0,-3.0,-28.0,0.0,-2.0,1.0
 United Kingdom,Northamptonshire,,GB-NTH,,2020-02-17,7.0,1.0,17.0,4.0,-14.0,3.0
@@ -16430,6 +16622,8 @@ United Kingdom,Northamptonshire,,GB-NTH,,2020-07-28,-22.0,-14.0,54.0,-28.0,-43.0
 United Kingdom,Northamptonshire,,GB-NTH,,2020-07-29,-22.0,-15.0,55.0,-25.0,-43.0,13.0
 United Kingdom,Northamptonshire,,GB-NTH,,2020-07-30,-19.0,-9.0,66.0,-23.0,-43.0,12.0
 United Kingdom,Northamptonshire,,GB-NTH,,2020-07-31,-27.0,-13.0,44.0,-23.0,-44.0,10.0
+United Kingdom,Northamptonshire,,GB-NTH,,2020-08-01,-35.0,-16.0,31.0,-16.0,-10.0,2.0
+United Kingdom,Northamptonshire,,GB-NTH,,2020-08-02,-29.0,-16.0,46.0,-13.0,-5.0,1.0
 United Kingdom,Northumberland,,GB-NBL,,2020-02-15,-4.0,1.0,-23.0,-7.0,0.0,2.0
 United Kingdom,Northumberland,,GB-NBL,,2020-02-16,3.0,0.0,-4.0,-4.0,-1.0,0.0
 United Kingdom,Northumberland,,GB-NBL,,2020-02-17,10.0,2.0,53.0,0.0,-15.0,2.0
@@ -16598,6 +16792,8 @@ United Kingdom,Northumberland,,GB-NBL,,2020-07-28,-5.0,5.0,212.0,2.0,-41.0,11.0
 United Kingdom,Northumberland,,GB-NBL,,2020-07-29,-3.0,4.0,202.0,1.0,-41.0,10.0
 United Kingdom,Northumberland,,GB-NBL,,2020-07-30,-6.0,8.0,176.0,-2.0,-41.0,11.0
 United Kingdom,Northumberland,,GB-NBL,,2020-07-31,-12.0,3.0,249.0,3.0,-40.0,8.0
+United Kingdom,Northumberland,,GB-NBL,,2020-08-01,-15.0,4.0,146.0,19.0,-10.0,3.0
+United Kingdom,Northumberland,,GB-NBL,,2020-08-02,-8.0,4.0,143.0,32.0,-6.0,2.0
 United Kingdom,Nottingham,,GB-NGM,,2020-02-15,-6.0,-5.0,-34.0,-9.0,-3.0,2.0
 United Kingdom,Nottingham,,GB-NGM,,2020-02-16,-13.0,-4.0,-42.0,-15.0,-1.0,1.0
 United Kingdom,Nottingham,,GB-NGM,,2020-02-17,6.0,1.0,41.0,-2.0,-10.0,2.0
@@ -16766,6 +16962,8 @@ United Kingdom,Nottingham,,GB-NGM,,2020-07-28,-43.0,-19.0,,-53.0,-48.0,11.0
 United Kingdom,Nottingham,,GB-NGM,,2020-07-29,-46.0,-19.0,103.0,-54.0,-48.0,11.0
 United Kingdom,Nottingham,,GB-NGM,,2020-07-30,-41.0,-15.0,128.0,-51.0,-49.0,11.0
 United Kingdom,Nottingham,,GB-NGM,,2020-07-31,-50.0,-19.0,73.0,-52.0,-50.0,9.0
+United Kingdom,Nottingham,,GB-NGM,,2020-08-01,-50.0,-22.0,64.0,-44.0,-19.0,3.0
+United Kingdom,Nottingham,,GB-NGM,,2020-08-02,-49.0,-21.0,84.0,-48.0,-14.0,2.0
 United Kingdom,Nottinghamshire,,GB-NTT,,2020-02-15,-11.0,-7.0,-40.0,-9.0,-3.0,2.0
 United Kingdom,Nottinghamshire,,GB-NTT,,2020-02-16,-11.0,-5.0,-43.0,-6.0,-3.0,1.0
 United Kingdom,Nottinghamshire,,GB-NTT,,2020-02-17,6.0,0.0,19.0,1.0,-16.0,2.0
@@ -16934,6 +17132,8 @@ United Kingdom,Nottinghamshire,,GB-NTT,,2020-07-28,-20.0,-9.0,73.0,-19.0,-44.0,1
 United Kingdom,Nottinghamshire,,GB-NTT,,2020-07-29,-20.0,-10.0,74.0,-22.0,-44.0,12.0
 United Kingdom,Nottinghamshire,,GB-NTT,,2020-07-30,-18.0,-7.0,93.0,-13.0,-44.0,11.0
 United Kingdom,Nottinghamshire,,GB-NTT,,2020-07-31,-25.0,-12.0,52.0,-17.0,-45.0,10.0
+United Kingdom,Nottinghamshire,,GB-NTT,,2020-08-01,-32.0,-14.0,41.0,-5.0,-12.0,3.0
+United Kingdom,Nottinghamshire,,GB-NTT,,2020-08-02,-29.0,-15.0,52.0,3.0,-7.0,1.0
 United Kingdom,Orkney,,GB-ORK,,2020-02-15,-4.0,-9.0,,,,
 United Kingdom,Orkney,,GB-ORK,,2020-02-17,,2.0,,,-23.0,
 United Kingdom,Orkney,,GB-ORK,,2020-02-18,,-2.0,,,0.0,
@@ -17232,6 +17432,8 @@ United Kingdom,Oxfordshire,,GB-OXF,,2020-07-28,-28.0,-14.0,86.0,-38.0,-51.0,16.0
 United Kingdom,Oxfordshire,,GB-OXF,,2020-07-29,-27.0,-15.0,87.0,-38.0,-51.0,16.0
 United Kingdom,Oxfordshire,,GB-OXF,,2020-07-30,-24.0,-11.0,112.0,-38.0,-51.0,15.0
 United Kingdom,Oxfordshire,,GB-OXF,,2020-07-31,-31.0,-13.0,79.0,-31.0,-51.0,14.0
+United Kingdom,Oxfordshire,,GB-OXF,,2020-08-01,-36.0,-17.0,49.0,-23.0,-13.0,3.0
+United Kingdom,Oxfordshire,,GB-OXF,,2020-08-02,-33.0,-21.0,58.0,-20.0,-9.0,2.0
 United Kingdom,Pembrokeshire,,GB-PEM,,2020-02-15,-20.0,-9.0,-37.0,-21.0,-7.0,
 United Kingdom,Pembrokeshire,,GB-PEM,,2020-02-16,0.0,0.0,0.0,-6.0,-3.0,
 United Kingdom,Pembrokeshire,,GB-PEM,,2020-02-17,21.0,10.0,68.0,6.0,-14.0,2.0
@@ -17400,6 +17602,8 @@ United Kingdom,Pembrokeshire,,GB-PEM,,2020-07-28,14.0,36.0,,17.0,-38.0,8.0
 United Kingdom,Pembrokeshire,,GB-PEM,,2020-07-29,12.0,39.0,,11.0,-38.0,9.0
 United Kingdom,Pembrokeshire,,GB-PEM,,2020-07-30,18.0,38.0,,9.0,-36.0,7.0
 United Kingdom,Pembrokeshire,,GB-PEM,,2020-07-31,7.0,34.0,,1.0,-38.0,8.0
+United Kingdom,Pembrokeshire,,GB-PEM,,2020-08-01,7.0,45.0,347.0,11.0,-12.0,
+United Kingdom,Pembrokeshire,,GB-PEM,,2020-08-02,23.0,52.0,,27.0,-5.0,
 United Kingdom,Perth and Kinross,,GB-PKN,,2020-02-15,-10.0,-3.0,-39.0,-10.0,-7.0,3.0
 United Kingdom,Perth and Kinross,,GB-PKN,,2020-02-16,4.0,1.0,-8.0,5.0,-2.0,
 United Kingdom,Perth and Kinross,,GB-PKN,,2020-02-17,13.0,5.0,17.0,8.0,-1.0,0.0
@@ -17568,6 +17772,8 @@ United Kingdom,Perth and Kinross,,GB-PKN,,2020-07-28,-12.0,-1.0,113.0,-15.0,-49.
 United Kingdom,Perth and Kinross,,GB-PKN,,2020-07-29,-11.0,-4.0,129.0,-12.0,-48.0,11.0
 United Kingdom,Perth and Kinross,,GB-PKN,,2020-07-30,-12.0,-2.0,79.0,-25.0,-49.0,13.0
 United Kingdom,Perth and Kinross,,GB-PKN,,2020-07-31,-13.0,-2.0,161.0,-10.0,-47.0,10.0
+United Kingdom,Perth and Kinross,,GB-PKN,,2020-08-01,-19.0,1.0,108.0,-4.0,-16.0,2.0
+United Kingdom,Perth and Kinross,,GB-PKN,,2020-08-02,-3.0,-5.0,122.0,-3.0,-11.0,
 United Kingdom,Peterborough,,GB-PTE,,2020-02-15,-9.0,-6.0,-37.0,24.0,-2.0,2.0
 United Kingdom,Peterborough,,GB-PTE,,2020-02-16,-5.0,-7.0,-40.0,-5.0,-2.0,1.0
 United Kingdom,Peterborough,,GB-PTE,,2020-02-17,8.0,-1.0,,3.0,-14.0,2.0
@@ -17736,6 +17942,8 @@ United Kingdom,Peterborough,,GB-PTE,,2020-07-28,-26.0,-8.0,,-52.0,-44.0,12.0
 United Kingdom,Peterborough,,GB-PTE,,2020-07-29,-27.0,-8.0,,-49.0,-43.0,12.0
 United Kingdom,Peterborough,,GB-PTE,,2020-07-30,-25.0,-5.0,,-47.0,-44.0,11.0
 United Kingdom,Peterborough,,GB-PTE,,2020-07-31,-30.0,-11.0,,-47.0,-44.0,10.0
+United Kingdom,Peterborough,,GB-PTE,,2020-08-01,-36.0,-14.0,,-38.0,-9.0,2.0
+United Kingdom,Peterborough,,GB-PTE,,2020-08-02,-30.0,-13.0,,-41.0,-5.0,1.0
 United Kingdom,Plymouth,,GB-PLY,,2020-02-15,-22.0,-10.0,-44.0,-20.0,-8.0,4.0
 United Kingdom,Plymouth,,GB-PLY,,2020-02-16,-12.0,-6.0,-31.0,-19.0,-4.0,2.0
 United Kingdom,Plymouth,,GB-PLY,,2020-02-17,7.0,5.0,25.0,-4.0,-15.0,2.0
@@ -17904,6 +18112,8 @@ United Kingdom,Plymouth,,GB-PLY,,2020-07-28,-25.0,-11.0,108.0,-22.0,-45.0,11.0
 United Kingdom,Plymouth,,GB-PLY,,2020-07-29,-26.0,-12.0,98.0,-22.0,-45.0,10.0
 United Kingdom,Plymouth,,GB-PLY,,2020-07-30,-26.0,-8.0,163.0,-15.0,-46.0,8.0
 United Kingdom,Plymouth,,GB-PLY,,2020-07-31,-32.0,-13.0,77.0,-17.0,-46.0,9.0
+United Kingdom,Plymouth,,GB-PLY,,2020-08-01,-38.0,-14.0,81.0,-6.0,-21.0,3.0
+United Kingdom,Plymouth,,GB-PLY,,2020-08-02,-32.0,-19.0,73.0,-2.0,-14.0,2.0
 United Kingdom,Portsmouth,,GB-POR,,2020-02-15,-10.0,-7.0,-37.0,-7.0,-4.0,3.0
 United Kingdom,Portsmouth,,GB-POR,,2020-02-16,-18.0,-12.0,-50.0,-11.0,-6.0,2.0
 United Kingdom,Portsmouth,,GB-POR,,2020-02-17,18.0,2.0,10.0,3.0,-13.0,2.0
@@ -18072,6 +18282,8 @@ United Kingdom,Portsmouth,,GB-POR,,2020-07-28,-24.0,-10.0,,-22.0,-48.0,12.0
 United Kingdom,Portsmouth,,GB-POR,,2020-07-29,-25.0,-9.0,,-25.0,-46.0,11.0
 United Kingdom,Portsmouth,,GB-POR,,2020-07-30,-17.0,-11.0,122.0,-16.0,-47.0,11.0
 United Kingdom,Portsmouth,,GB-POR,,2020-07-31,-23.0,-13.0,122.0,-9.0,-46.0,9.0
+United Kingdom,Portsmouth,,GB-POR,,2020-08-01,-33.0,-14.0,,7.0,-16.0,2.0
+United Kingdom,Portsmouth,,GB-POR,,2020-08-02,-29.0,-20.0,,2.0,-9.0,1.0
 United Kingdom,Powys,,GB-POW,,2020-02-15,-18.0,-8.0,-39.0,-22.0,-7.0,
 United Kingdom,Powys,,GB-POW,,2020-02-16,-11.0,0.0,-7.0,-10.0,-11.0,
 United Kingdom,Powys,,GB-POW,,2020-02-17,12.0,6.0,24.0,-1.0,-21.0,4.0
@@ -18240,6 +18452,8 @@ United Kingdom,Powys,,GB-POW,,2020-07-28,-21.0,8.0,135.0,2.0,-41.0,10.0
 United Kingdom,Powys,,GB-POW,,2020-07-29,-18.0,7.0,123.0,1.0,-40.0,11.0
 United Kingdom,Powys,,GB-POW,,2020-07-30,-12.0,16.0,161.0,5.0,-41.0,10.0
 United Kingdom,Powys,,GB-POW,,2020-07-31,-15.0,17.0,,12.0,-41.0,8.0
+United Kingdom,Powys,,GB-POW,,2020-08-01,-18.0,22.0,145.0,10.0,-14.0,
+United Kingdom,Powys,,GB-POW,,2020-08-02,-7.0,20.0,168.0,26.0,-11.0,
 United Kingdom,Reading,,GB-RDG,,2020-02-15,-18.0,-10.0,-47.0,-12.0,-3.0,3.0
 United Kingdom,Reading,,GB-RDG,,2020-02-16,-11.0,-9.0,-37.0,-7.0,-1.0,
 United Kingdom,Reading,,GB-RDG,,2020-02-17,9.0,3.0,,1.0,-13.0,2.0
@@ -18408,6 +18622,8 @@ United Kingdom,Reading,,GB-RDG,,2020-07-28,-33.0,-16.0,,-66.0,-57.0,19.0
 United Kingdom,Reading,,GB-RDG,,2020-07-29,-36.0,-18.0,,-66.0,-57.0,19.0
 United Kingdom,Reading,,GB-RDG,,2020-07-30,-33.0,-8.0,,-66.0,-57.0,18.0
 United Kingdom,Reading,,GB-RDG,,2020-07-31,-41.0,-15.0,,-59.0,-56.0,16.0
+United Kingdom,Reading,,GB-RDG,,2020-08-01,-46.0,-23.0,76.0,-51.0,-14.0,4.0
+United Kingdom,Reading,,GB-RDG,,2020-08-02,-41.0,-24.0,89.0,-49.0,-7.0,
 United Kingdom,Redcar and Cleveland,,GB-RCC,,2020-02-15,-14.0,-10.0,-47.0,-13.0,0.0,2.0
 United Kingdom,Redcar and Cleveland,,GB-RCC,,2020-02-16,1.0,-4.0,-18.0,-4.0,1.0,
 United Kingdom,Redcar and Cleveland,,GB-RCC,,2020-02-17,15.0,-2.0,,0.0,-15.0,2.0
@@ -18576,6 +18792,8 @@ United Kingdom,Redcar and Cleveland,,GB-RCC,,2020-07-28,-13.0,-6.0,,-16.0,-37.0,
 United Kingdom,Redcar and Cleveland,,GB-RCC,,2020-07-29,-11.0,-6.0,,-12.0,-38.0,9.0
 United Kingdom,Redcar and Cleveland,,GB-RCC,,2020-07-30,-19.0,-4.0,,-21.0,-39.0,9.0
 United Kingdom,Redcar and Cleveland,,GB-RCC,,2020-07-31,-11.0,-6.0,,7.0,-38.0,7.0
+United Kingdom,Redcar and Cleveland,,GB-RCC,,2020-08-01,-21.0,-9.0,73.0,-15.0,-11.0,3.0
+United Kingdom,Redcar and Cleveland,,GB-RCC,,2020-08-02,-17.0,-14.0,53.0,-12.0,-7.0,
 United Kingdom,Renfrewshire,,GB-RFW,,2020-02-15,-4.0,-5.0,-36.0,-11.0,-5.0,3.0
 United Kingdom,Renfrewshire,,GB-RFW,,2020-02-16,-3.0,-5.0,-4.0,-4.0,-2.0,1.0
 United Kingdom,Renfrewshire,,GB-RFW,,2020-02-17,2.0,-1.0,,7.0,0.0,1.0
@@ -18744,6 +18962,8 @@ United Kingdom,Renfrewshire,,GB-RFW,,2020-07-28,-15.0,-3.0,,-52.0,-50.0,14.0
 United Kingdom,Renfrewshire,,GB-RFW,,2020-07-29,-16.0,-3.0,,-47.0,-49.0,13.0
 United Kingdom,Renfrewshire,,GB-RFW,,2020-07-30,-16.0,-7.0,5.0,-62.0,-52.0,15.0
 United Kingdom,Renfrewshire,,GB-RFW,,2020-07-31,-32.0,-11.0,,-60.0,-49.0,11.0
+United Kingdom,Renfrewshire,,GB-RFW,,2020-08-01,-37.0,-12.0,53.0,-53.0,-17.0,4.0
+United Kingdom,Renfrewshire,,GB-RFW,,2020-08-02,-31.0,-13.0,,-57.0,-11.0,3.0
 United Kingdom,Rhondda Cynon Taff,,GB-RCT,,2020-02-15,-15.0,-7.0,-50.0,-22.0,-7.0,4.0
 United Kingdom,Rhondda Cynon Taff,,GB-RCT,,2020-02-16,-24.0,-7.0,-22.0,-6.0,-12.0,3.0
 United Kingdom,Rhondda Cynon Taff,,GB-RCT,,2020-02-17,0.0,-1.0,11.0,-13.0,-21.0,4.0
@@ -18912,6 +19132,8 @@ United Kingdom,Rhondda Cynon Taff,,GB-RCT,,2020-07-28,-29.0,-4.0,,-39.0,-44.0,12
 United Kingdom,Rhondda Cynon Taff,,GB-RCT,,2020-07-29,-31.0,-6.0,35.0,-40.0,-44.0,12.0
 United Kingdom,Rhondda Cynon Taff,,GB-RCT,,2020-07-30,-29.0,-1.0,,-37.0,-45.0,10.0
 United Kingdom,Rhondda Cynon Taff,,GB-RCT,,2020-07-31,-35.0,-2.0,5.0,-38.0,-45.0,9.0
+United Kingdom,Rhondda Cynon Taff,,GB-RCT,,2020-08-01,-40.0,-7.0,4.0,-41.0,-14.0,4.0
+United Kingdom,Rhondda Cynon Taff,,GB-RCT,,2020-08-02,-36.0,-12.0,,-23.0,-5.0,1.0
 United Kingdom,Rutland,,GB-RUT,,2020-02-15,-15.0,-4.0,,,-9.0,
 United Kingdom,Rutland,,GB-RUT,,2020-02-16,-17.0,-12.0,,,,
 United Kingdom,Rutland,,GB-RUT,,2020-02-17,17.0,2.0,,,-19.0,
@@ -19072,6 +19294,7 @@ United Kingdom,Rutland,,GB-RUT,,2020-07-28,,,,,-47.0,
 United Kingdom,Rutland,,GB-RUT,,2020-07-29,,,,,-45.0,
 United Kingdom,Rutland,,GB-RUT,,2020-07-30,,,,,-46.0,
 United Kingdom,Rutland,,GB-RUT,,2020-07-31,,,,,-47.0,
+United Kingdom,Rutland,,GB-RUT,,2020-08-01,,,,,-14.0,
 United Kingdom,Scottish Borders,,GB-SCB,,2020-02-15,-9.0,-2.0,-22.0,-12.0,-4.0,
 United Kingdom,Scottish Borders,,GB-SCB,,2020-02-16,8.0,-2.0,6.0,0.0,0.0,
 United Kingdom,Scottish Borders,,GB-SCB,,2020-02-17,10.0,3.0,15.0,-4.0,-15.0,2.0
@@ -19240,6 +19463,8 @@ United Kingdom,Scottish Borders,,GB-SCB,,2020-07-28,-9.0,-5.0,100.0,-21.0,-41.0,
 United Kingdom,Scottish Borders,,GB-SCB,,2020-07-29,-10.0,-7.0,,-18.0,-41.0,10.0
 United Kingdom,Scottish Borders,,GB-SCB,,2020-07-30,-14.0,-4.0,59.0,-21.0,-43.0,11.0
 United Kingdom,Scottish Borders,,GB-SCB,,2020-07-31,-17.0,-6.0,117.0,-9.0,-39.0,7.0
+United Kingdom,Scottish Borders,,GB-SCB,,2020-08-01,-9.0,4.0,92.0,6.0,-12.0,
+United Kingdom,Scottish Borders,,GB-SCB,,2020-08-02,7.0,-4.0,,9.0,-10.0,
 United Kingdom,Shetland Islands,,GB-ZET,,2020-02-15,0.0,-9.0,,,,
 United Kingdom,Shetland Islands,,GB-ZET,,2020-02-17,,,,,3.0,
 United Kingdom,Shetland Islands,,GB-ZET,,2020-02-18,,,,,1.0,
@@ -19538,6 +19763,8 @@ United Kingdom,Shropshire,,GB-SHR,,2020-07-28,-18.0,-8.0,96.0,-23.0,-42.0,11.0
 United Kingdom,Shropshire,,GB-SHR,,2020-07-29,-19.0,-8.0,91.0,-22.0,-42.0,12.0
 United Kingdom,Shropshire,,GB-SHR,,2020-07-30,-14.0,-4.0,125.0,-20.0,-43.0,11.0
 United Kingdom,Shropshire,,GB-SHR,,2020-07-31,-22.0,-8.0,111.0,-15.0,-43.0,9.0
+United Kingdom,Shropshire,,GB-SHR,,2020-08-01,-27.0,-11.0,62.0,-11.0,-12.0,3.0
+United Kingdom,Shropshire,,GB-SHR,,2020-08-02,-20.0,-11.0,85.0,-3.0,-5.0,1.0
 United Kingdom,Slough,,GB-SLG,,2020-02-15,-8.0,-7.0,-22.0,-14.0,-1.0,2.0
 United Kingdom,Slough,,GB-SLG,,2020-02-16,-12.0,-5.0,-34.0,-12.0,-5.0,2.0
 United Kingdom,Slough,,GB-SLG,,2020-02-17,3.0,0.0,12.0,-8.0,-14.0,3.0
@@ -19706,6 +19933,8 @@ United Kingdom,Slough,,GB-SLG,,2020-07-28,-20.0,-18.0,,-55.0,-49.0,15.0
 United Kingdom,Slough,,GB-SLG,,2020-07-29,-18.0,-14.0,,-53.0,-48.0,15.0
 United Kingdom,Slough,,GB-SLG,,2020-07-30,-13.0,-7.0,,-54.0,-48.0,14.0
 United Kingdom,Slough,,GB-SLG,,2020-07-31,-28.0,-20.0,60.0,-49.0,-49.0,12.0
+United Kingdom,Slough,,GB-SLG,,2020-08-01,-30.0,-21.0,90.0,-26.0,-16.0,3.0
+United Kingdom,Slough,,GB-SLG,,2020-08-02,-26.0,-16.0,,-23.0,-15.0,
 United Kingdom,Somerset,,GB-SOM,,2020-02-15,-18.0,-6.0,-35.0,-6.0,-9.0,4.0
 United Kingdom,Somerset,,GB-SOM,,2020-02-16,-5.0,-2.0,-27.0,12.0,-4.0,2.0
 United Kingdom,Somerset,,GB-SOM,,2020-02-17,13.0,5.0,36.0,22.0,-16.0,2.0
@@ -19874,6 +20103,8 @@ United Kingdom,Somerset,,GB-SOM,,2020-07-28,-8.0,-4.0,158.0,1.0,-39.0,10.0
 United Kingdom,Somerset,,GB-SOM,,2020-07-29,-14.0,-4.0,147.0,2.0,-39.0,11.0
 United Kingdom,Somerset,,GB-SOM,,2020-07-30,-8.0,0.0,170.0,14.0,-40.0,10.0
 United Kingdom,Somerset,,GB-SOM,,2020-07-31,-14.0,2.0,160.0,42.0,-41.0,9.0
+United Kingdom,Somerset,,GB-SOM,,2020-08-01,-20.0,-1.0,128.0,69.0,-13.0,3.0
+United Kingdom,Somerset,,GB-SOM,,2020-08-02,-13.0,-3.0,120.0,39.0,-10.0,2.0
 United Kingdom,South Ayrshire Council,,GB-SAY,,2020-02-15,-14.0,-8.0,-25.0,-23.0,-2.0,
 United Kingdom,South Ayrshire Council,,GB-SAY,,2020-02-16,-3.0,-2.0,-8.0,-4.0,0.0,
 United Kingdom,South Ayrshire Council,,GB-SAY,,2020-02-17,6.0,6.0,,1.0,1.0,1.0
@@ -20042,6 +20273,8 @@ United Kingdom,South Ayrshire Council,,GB-SAY,,2020-07-28,-13.0,-2.0,,-31.0,-46.
 United Kingdom,South Ayrshire Council,,GB-SAY,,2020-07-29,-8.0,1.0,,-22.0,-45.0,10.0
 United Kingdom,South Ayrshire Council,,GB-SAY,,2020-07-30,-17.0,-5.0,,-37.0,-45.0,12.0
 United Kingdom,South Ayrshire Council,,GB-SAY,,2020-07-31,-15.0,3.0,,-12.0,-43.0,10.0
+United Kingdom,South Ayrshire Council,,GB-SAY,,2020-08-01,-20.0,-1.0,,-10.0,-13.0,
+United Kingdom,South Ayrshire Council,,GB-SAY,,2020-08-02,-7.0,-1.0,,120.0,-8.0,
 United Kingdom,South Gloucestershire,,GB-SGC,,2020-02-15,-10.0,4.0,-47.0,-14.0,-4.0,3.0
 United Kingdom,South Gloucestershire,,GB-SGC,,2020-02-16,-6.0,6.0,-41.0,-10.0,-2.0,1.0
 United Kingdom,South Gloucestershire,,GB-SGC,,2020-02-17,6.0,11.0,14.0,-2.0,-14.0,2.0
@@ -20210,6 +20443,8 @@ United Kingdom,South Gloucestershire,,GB-SGC,,2020-07-28,-26.0,-12.0,124.0,-42.0
 United Kingdom,South Gloucestershire,,GB-SGC,,2020-07-29,-27.0,-12.0,99.0,-44.0,-52.0,16.0
 United Kingdom,South Gloucestershire,,GB-SGC,,2020-07-30,-25.0,-14.0,132.0,-48.0,-53.0,14.0
 United Kingdom,South Gloucestershire,,GB-SGC,,2020-07-31,-33.0,-13.0,,-40.0,-52.0,12.0
+United Kingdom,South Gloucestershire,,GB-SGC,,2020-08-01,-36.0,-18.0,66.0,-26.0,-10.0,3.0
+United Kingdom,South Gloucestershire,,GB-SGC,,2020-08-02,-35.0,-20.0,76.0,-26.0,-6.0,2.0
 United Kingdom,South Lanarkshire,,GB-SLK,,2020-02-15,-7.0,-5.0,-32.0,-12.0,-2.0,3.0
 United Kingdom,South Lanarkshire,,GB-SLK,,2020-02-16,-1.0,-2.0,-2.0,-5.0,-1.0,1.0
 United Kingdom,South Lanarkshire,,GB-SLK,,2020-02-17,3.0,1.0,9.0,-4.0,0.0,1.0
@@ -20378,6 +20613,8 @@ United Kingdom,South Lanarkshire,,GB-SLK,,2020-07-28,-19.0,-6.0,87.0,-33.0,-49.0
 United Kingdom,South Lanarkshire,,GB-SLK,,2020-07-29,-18.0,-9.0,94.0,-30.0,-49.0,12.0
 United Kingdom,South Lanarkshire,,GB-SLK,,2020-07-30,-16.0,-9.0,21.0,-32.0,-50.0,14.0
 United Kingdom,South Lanarkshire,,GB-SLK,,2020-07-31,-26.0,-14.0,84.0,-24.0,-48.0,10.0
+United Kingdom,South Lanarkshire,,GB-SLK,,2020-08-01,-29.0,-14.0,73.0,-11.0,-11.0,3.0
+United Kingdom,South Lanarkshire,,GB-SLK,,2020-08-02,-18.0,-18.0,58.0,-11.0,-11.0,2.0
 United Kingdom,South Yorkshire,,,,2020-02-15,-7.0,-5.0,-41.0,-11.0,-2.0,2.0
 United Kingdom,South Yorkshire,,,,2020-02-16,-2.0,-3.0,-34.0,-7.0,-2.0,1.0
 United Kingdom,South Yorkshire,,,,2020-02-17,8.0,-1.0,12.0,-6.0,-14.0,2.0
@@ -20546,6 +20783,8 @@ United Kingdom,South Yorkshire,,,,2020-07-28,-27.0,-11.0,70.0,-36.0,-43.0,12.0
 United Kingdom,South Yorkshire,,,,2020-07-29,-28.0,-11.0,71.0,-38.0,-43.0,11.0
 United Kingdom,South Yorkshire,,,,2020-07-30,-26.0,-10.0,70.0,-40.0,-44.0,11.0
 United Kingdom,South Yorkshire,,,,2020-07-31,-35.0,-12.0,64.0,-37.0,-44.0,9.0
+United Kingdom,South Yorkshire,,,,2020-08-01,-39.0,-16.0,32.0,-35.0,-13.0,3.0
+United Kingdom,South Yorkshire,,,,2020-08-02,-30.0,-16.0,59.0,-28.0,-9.0,1.0
 United Kingdom,Southampton,,GB-STH,,2020-02-15,-10.0,-9.0,-40.0,-10.0,-6.0,3.0
 United Kingdom,Southampton,,GB-STH,,2020-02-16,-14.0,-6.0,-42.0,13.0,-5.0,2.0
 United Kingdom,Southampton,,GB-STH,,2020-02-17,13.0,-1.0,14.0,-5.0,-11.0,1.0
@@ -20714,6 +20953,8 @@ United Kingdom,Southampton,,GB-STH,,2020-07-28,-32.0,-9.0,60.0,-47.0,-48.0,13.0
 United Kingdom,Southampton,,GB-STH,,2020-07-29,-32.0,-10.0,58.0,-49.0,-47.0,12.0
 United Kingdom,Southampton,,GB-STH,,2020-07-30,-32.0,-9.0,85.0,-47.0,-48.0,10.0
 United Kingdom,Southampton,,GB-STH,,2020-07-31,-40.0,-11.0,53.0,-43.0,-48.0,10.0
+United Kingdom,Southampton,,GB-STH,,2020-08-01,-47.0,-15.0,10.0,-37.0,-18.0,3.0
+United Kingdom,Southampton,,GB-STH,,2020-08-02,-42.0,-16.0,14.0,-33.0,-17.0,3.0
 United Kingdom,Southend-on-Sea,,GB-SOS,,2020-02-15,-10.0,8.0,-40.0,-18.0,-2.0,2.0
 United Kingdom,Southend-on-Sea,,GB-SOS,,2020-02-16,-27.0,2.0,-66.0,-22.0,-5.0,
 United Kingdom,Southend-on-Sea,,GB-SOS,,2020-02-17,15.0,14.0,33.0,-1.0,-15.0,3.0
@@ -20882,6 +21123,8 @@ United Kingdom,Southend-on-Sea,,GB-SOS,,2020-07-28,-12.0,-7.0,,-48.0,-49.0,14.0
 United Kingdom,Southend-on-Sea,,GB-SOS,,2020-07-29,-6.0,-5.0,,-43.0,-48.0,13.0
 United Kingdom,Southend-on-Sea,,GB-SOS,,2020-07-30,-1.0,0.0,,-44.0,-49.0,13.0
 United Kingdom,Southend-on-Sea,,GB-SOS,,2020-07-31,2.0,0.0,,-29.0,-48.0,12.0
+United Kingdom,Southend-on-Sea,,GB-SOS,,2020-08-01,-14.0,-7.0,,-22.0,-15.0,4.0
+United Kingdom,Southend-on-Sea,,GB-SOS,,2020-08-02,-6.0,-7.0,,-27.0,-10.0,
 United Kingdom,Staffordshire,,GB-STS,,2020-02-15,-12.0,-6.0,-46.0,-9.0,-4.0,2.0
 United Kingdom,Staffordshire,,GB-STS,,2020-02-16,-11.0,-5.0,-42.0,5.0,-4.0,1.0
 United Kingdom,Staffordshire,,GB-STS,,2020-02-17,10.0,2.0,22.0,11.0,-16.0,2.0
@@ -21050,6 +21293,8 @@ United Kingdom,Staffordshire,,GB-STS,,2020-07-28,-12.0,-11.0,83.0,-25.0,-44.0,13
 United Kingdom,Staffordshire,,GB-STS,,2020-07-29,-15.0,-12.0,82.0,-23.0,-44.0,12.0
 United Kingdom,Staffordshire,,GB-STS,,2020-07-30,-11.0,-8.0,104.0,-20.0,-44.0,12.0
 United Kingdom,Staffordshire,,GB-STS,,2020-07-31,-21.0,-12.0,76.0,-11.0,-45.0,10.0
+United Kingdom,Staffordshire,,GB-STS,,2020-08-01,-28.0,-16.0,37.0,-10.0,-12.0,3.0
+United Kingdom,Staffordshire,,GB-STS,,2020-08-02,-17.0,-16.0,61.0,-3.0,-4.0,1.0
 United Kingdom,Stirling,,GB-STG,,2020-02-15,-11.0,-3.0,-42.0,-14.0,1.0,
 United Kingdom,Stirling,,GB-STG,,2020-02-16,-6.0,-2.0,-13.0,-7.0,0.0,
 United Kingdom,Stirling,,GB-STG,,2020-02-17,9.0,5.0,15.0,-5.0,-19.0,3.0
@@ -21218,6 +21463,8 @@ United Kingdom,Stirling,,GB-STG,,2020-07-28,-23.0,1.0,,-31.0,-54.0,13.0
 United Kingdom,Stirling,,GB-STG,,2020-07-29,-20.0,-1.0,134.0,-29.0,-53.0,13.0
 United Kingdom,Stirling,,GB-STG,,2020-07-30,-19.0,-7.0,28.0,-36.0,-54.0,
 United Kingdom,Stirling,,GB-STG,,2020-07-31,-24.0,1.0,151.0,-22.0,-51.0,
+United Kingdom,Stirling,,GB-STG,,2020-08-01,-28.0,2.0,78.0,-7.0,-15.0,
+United Kingdom,Stirling,,GB-STG,,2020-08-02,-19.0,-6.0,95.0,2.0,-12.0,
 United Kingdom,Stockton-on-Tees,,GB-STT,,2020-02-15,-9.0,-6.0,-37.0,-8.0,-1.0,2.0
 United Kingdom,Stockton-on-Tees,,GB-STT,,2020-02-16,-1.0,-3.0,-9.0,-10.0,-2.0,0.0
 United Kingdom,Stockton-on-Tees,,GB-STT,,2020-02-17,7.0,-2.0,22.0,-3.0,-17.0,3.0
@@ -21386,6 +21633,8 @@ United Kingdom,Stockton-on-Tees,,GB-STT,,2020-07-28,-20.0,-5.0,,-35.0,-42.0,11.0
 United Kingdom,Stockton-on-Tees,,GB-STT,,2020-07-29,-18.0,-5.0,,-34.0,-40.0,10.0
 United Kingdom,Stockton-on-Tees,,GB-STT,,2020-07-30,-16.0,-3.0,56.0,-35.0,-41.0,11.0
 United Kingdom,Stockton-on-Tees,,GB-STT,,2020-07-31,-29.0,-9.0,73.0,-30.0,-41.0,9.0
+United Kingdom,Stockton-on-Tees,,GB-STT,,2020-08-01,-28.0,-12.0,44.0,-22.0,-5.0,4.0
+United Kingdom,Stockton-on-Tees,,GB-STT,,2020-08-02,-26.0,-12.0,56.0,-22.0,-6.0,2.0
 United Kingdom,Stoke-on-Trent,,GB-STE,,2020-02-15,-14.0,-6.0,-36.0,-13.0,-2.0,2.0
 United Kingdom,Stoke-on-Trent,,GB-STE,,2020-02-16,-4.0,-3.0,-33.0,-2.0,-2.0,1.0
 United Kingdom,Stoke-on-Trent,,GB-STE,,2020-02-17,5.0,-1.0,20.0,-6.0,-13.0,2.0
@@ -21554,6 +21803,8 @@ United Kingdom,Stoke-on-Trent,,GB-STE,,2020-07-28,-21.0,-9.0,,-48.0,-40.0,10.0
 United Kingdom,Stoke-on-Trent,,GB-STE,,2020-07-29,-24.0,-11.0,,-44.0,-39.0,10.0
 United Kingdom,Stoke-on-Trent,,GB-STE,,2020-07-30,-22.0,-6.0,,-45.0,-40.0,9.0
 United Kingdom,Stoke-on-Trent,,GB-STE,,2020-07-31,-33.0,-13.0,,-42.0,-41.0,8.0
+United Kingdom,Stoke-on-Trent,,GB-STE,,2020-08-01,-40.0,-16.0,27.0,-37.0,-15.0,3.0
+United Kingdom,Stoke-on-Trent,,GB-STE,,2020-08-02,-32.0,-16.0,66.0,-32.0,-11.0,1.0
 United Kingdom,Suffolk,,GB-SFK,,2020-02-15,-9.0,-2.0,-32.0,-6.0,-4.0,2.0
 United Kingdom,Suffolk,,GB-SFK,,2020-02-16,-15.0,-8.0,-47.0,-18.0,-4.0,2.0
 United Kingdom,Suffolk,,GB-SFK,,2020-02-17,13.0,2.0,36.0,2.0,-16.0,2.0
@@ -21722,6 +21973,8 @@ United Kingdom,Suffolk,,GB-SFK,,2020-07-28,-21.0,-8.0,144.0,-25.0,-42.0,12.0
 United Kingdom,Suffolk,,GB-SFK,,2020-07-29,-20.0,-9.0,138.0,-23.0,-42.0,11.0
 United Kingdom,Suffolk,,GB-SFK,,2020-07-30,-17.0,-3.0,159.0,-25.0,-42.0,11.0
 United Kingdom,Suffolk,,GB-SFK,,2020-07-31,-22.0,-5.0,180.0,-20.0,-42.0,9.0
+United Kingdom,Suffolk,,GB-SFK,,2020-08-01,-34.0,-10.0,91.0,-14.0,-10.0,3.0
+United Kingdom,Suffolk,,GB-SFK,,2020-08-02,-24.0,-11.0,117.0,-1.0,-6.0,2.0
 United Kingdom,Surrey,,GB-SRY,,2020-02-15,-14.0,-5.0,-46.0,-11.0,-5.0,3.0
 United Kingdom,Surrey,,GB-SRY,,2020-02-16,-17.0,-9.0,-44.0,-5.0,-6.0,2.0
 United Kingdom,Surrey,,GB-SRY,,2020-02-17,7.0,2.0,24.0,1.0,-18.0,2.0
@@ -21890,6 +22143,8 @@ United Kingdom,Surrey,,GB-SRY,,2020-07-28,-27.0,-18.0,61.0,-48.0,-56.0,17.0
 United Kingdom,Surrey,,GB-SRY,,2020-07-29,-26.0,-17.0,80.0,-47.0,-56.0,17.0
 United Kingdom,Surrey,,GB-SRY,,2020-07-30,-24.0,-15.0,80.0,-46.0,-56.0,16.0
 United Kingdom,Surrey,,GB-SRY,,2020-07-31,-32.0,-18.0,69.0,-40.0,-55.0,14.0
+United Kingdom,Surrey,,GB-SRY,,2020-08-01,-37.0,-21.0,41.0,-29.0,-9.0,4.0
+United Kingdom,Surrey,,GB-SRY,,2020-08-02,-33.0,-25.0,52.0,-21.0,-5.0,2.0
 United Kingdom,Swansea,,GB-SWA,,2020-02-15,-11.0,-6.0,-54.0,-17.0,-5.0,3.0
 United Kingdom,Swansea,,GB-SWA,,2020-02-16,-9.0,-6.0,-27.0,-16.0,-5.0,1.0
 United Kingdom,Swansea,,GB-SWA,,2020-02-17,13.0,4.0,68.0,1.0,-16.0,2.0
@@ -22058,6 +22313,8 @@ United Kingdom,Swansea,,GB-SWA,,2020-07-28,-25.0,-7.0,,-41.0,-45.0,12.0
 United Kingdom,Swansea,,GB-SWA,,2020-07-29,-29.0,-7.0,,-41.0,-45.0,12.0
 United Kingdom,Swansea,,GB-SWA,,2020-07-30,-25.0,-2.0,,-34.0,-46.0,10.0
 United Kingdom,Swansea,,GB-SWA,,2020-07-31,-32.0,-4.0,,-32.0,-46.0,10.0
+United Kingdom,Swansea,,GB-SWA,,2020-08-01,-36.0,-4.0,109.0,-35.0,-18.0,5.0
+United Kingdom,Swansea,,GB-SWA,,2020-08-02,-33.0,-9.0,169.0,-25.0,-13.0,3.0
 United Kingdom,Swindon,,GB-SWD,,2020-02-15,-19.0,-7.0,-50.0,-11.0,-3.0,3.0
 United Kingdom,Swindon,,GB-SWD,,2020-02-16,-12.0,-4.0,-53.0,-2.0,-2.0,1.0
 United Kingdom,Swindon,,GB-SWD,,2020-02-17,3.0,-2.0,,-2.0,-13.0,2.0
@@ -22226,6 +22483,8 @@ United Kingdom,Swindon,,GB-SWD,,2020-07-28,-27.0,-14.0,,-40.0,-47.0,14.0
 United Kingdom,Swindon,,GB-SWD,,2020-07-29,-27.0,-15.0,,-38.0,-45.0,14.0
 United Kingdom,Swindon,,GB-SWD,,2020-07-30,-21.0,-10.0,,-46.0,-46.0,13.0
 United Kingdom,Swindon,,GB-SWD,,2020-07-31,-32.0,-16.0,,-42.0,-46.0,12.0
+United Kingdom,Swindon,,GB-SWD,,2020-08-01,-40.0,-22.0,,-32.0,-8.0,3.0
+United Kingdom,Swindon,,GB-SWD,,2020-08-02,-36.0,-25.0,,-27.0,-3.0,2.0
 United Kingdom,Thurrock,,GB-THR,,2020-02-15,-8.0,-4.0,,-12.0,-3.0,2.0
 United Kingdom,Thurrock,,GB-THR,,2020-02-16,-13.0,-9.0,-22.0,-14.0,-7.0,2.0
 United Kingdom,Thurrock,,GB-THR,,2020-02-17,16.0,5.0,,-7.0,-16.0,2.0
@@ -22394,6 +22653,8 @@ United Kingdom,Thurrock,,GB-THR,,2020-07-28,-13.0,-12.0,,-38.0,-44.0,13.0
 United Kingdom,Thurrock,,GB-THR,,2020-07-29,-13.0,-10.0,,-34.0,-44.0,12.0
 United Kingdom,Thurrock,,GB-THR,,2020-07-30,-16.0,-6.0,,-35.0,-45.0,12.0
 United Kingdom,Thurrock,,GB-THR,,2020-07-31,-28.0,-11.0,47.0,-36.0,-44.0,11.0
+United Kingdom,Thurrock,,GB-THR,,2020-08-01,-43.0,-17.0,,-22.0,-10.0,3.0
+United Kingdom,Thurrock,,GB-THR,,2020-08-02,-35.0,-17.0,,-8.0,-10.0,1.0
 United Kingdom,Torbay,,GB-TOB,,2020-02-15,-23.0,-13.0,-51.0,-31.0,-6.0,4.0
 United Kingdom,Torbay,,GB-TOB,,2020-02-16,-11.0,-2.0,-26.0,-16.0,-1.0,
 United Kingdom,Torbay,,GB-TOB,,2020-02-17,24.0,6.0,72.0,-1.0,-17.0,2.0
@@ -22562,6 +22823,8 @@ United Kingdom,Torbay,,GB-TOB,,2020-07-28,17.0,9.0,,6.0,-39.0,8.0
 United Kingdom,Torbay,,GB-TOB,,2020-07-29,9.0,7.0,247.0,0.0,-39.0,8.0
 United Kingdom,Torbay,,GB-TOB,,2020-07-30,16.0,11.0,,2.0,-38.0,7.0
 United Kingdom,Torbay,,GB-TOB,,2020-07-31,6.0,5.0,,-3.0,-38.0,7.0
+United Kingdom,Torbay,,GB-TOB,,2020-08-01,-5.0,7.0,,0.0,-10.0,3.0
+United Kingdom,Torbay,,GB-TOB,,2020-08-02,11.0,4.0,166.0,7.0,-9.0,
 United Kingdom,Torfaen Principal Area,,GB-TOF,,2020-02-15,-13.0,-12.0,,-24.0,-3.0,
 United Kingdom,Torfaen Principal Area,,GB-TOF,,2020-02-16,-15.0,-12.0,,-26.0,-4.0,
 United Kingdom,Torfaen Principal Area,,GB-TOF,,2020-02-17,3.0,-1.0,,-17.0,-17.0,3.0
@@ -22730,6 +22993,8 @@ United Kingdom,Torfaen Principal Area,,GB-TOF,,2020-07-28,-26.0,-6.0,,-21.0,-41.
 United Kingdom,Torfaen Principal Area,,GB-TOF,,2020-07-29,-29.0,-5.0,,-23.0,-44.0,12.0
 United Kingdom,Torfaen Principal Area,,GB-TOF,,2020-07-30,-27.0,-8.0,,-23.0,-44.0,11.0
 United Kingdom,Torfaen Principal Area,,GB-TOF,,2020-07-31,-36.0,-11.0,,-28.0,-44.0,9.0
+United Kingdom,Torfaen Principal Area,,GB-TOF,,2020-08-01,-40.0,-14.0,,-26.0,-10.0,
+United Kingdom,Torfaen Principal Area,,GB-TOF,,2020-08-02,-36.0,-19.0,,-22.0,-2.0,
 United Kingdom,Tyne and Wear,,,,2020-02-15,-10.0,-5.0,-27.0,-9.0,-2.0,2.0
 United Kingdom,Tyne and Wear,,,,2020-02-16,6.0,-4.0,-11.0,3.0,0.0,0.0
 United Kingdom,Tyne and Wear,,,,2020-02-17,11.0,-2.0,18.0,0.0,-14.0,2.0
@@ -22898,6 +23163,8 @@ United Kingdom,Tyne and Wear,,,,2020-07-28,-28.0,-11.0,84.0,-40.0,-47.0,13.0
 United Kingdom,Tyne and Wear,,,,2020-07-29,-27.0,-11.0,96.0,-38.0,-47.0,12.0
 United Kingdom,Tyne and Wear,,,,2020-07-30,-27.0,-8.0,52.0,-44.0,-48.0,13.0
 United Kingdom,Tyne and Wear,,,,2020-07-31,-34.0,-12.0,124.0,-37.0,-47.0,10.0
+United Kingdom,Tyne and Wear,,,,2020-08-01,-41.0,-14.0,41.0,-36.0,-17.0,4.0
+United Kingdom,Tyne and Wear,,,,2020-08-02,-32.0,-17.0,46.0,-34.0,-12.0,2.0
 United Kingdom,Vale of Glamorgan,,GB-VGL,,2020-02-15,-14.0,-7.0,-43.0,-9.0,-3.0,
 United Kingdom,Vale of Glamorgan,,GB-VGL,,2020-02-16,-13.0,-12.0,-36.0,-11.0,1.0,
 United Kingdom,Vale of Glamorgan,,GB-VGL,,2020-02-17,9.0,-4.0,30.0,-2.0,-18.0,3.0
@@ -23066,6 +23333,8 @@ United Kingdom,Vale of Glamorgan,,GB-VGL,,2020-07-28,-8.0,0.0,,-33.0,-49.0,14.0
 United Kingdom,Vale of Glamorgan,,GB-VGL,,2020-07-29,-11.0,2.0,,-34.0,-49.0,14.0
 United Kingdom,Vale of Glamorgan,,GB-VGL,,2020-07-30,-2.0,6.0,,-28.0,-48.0,13.0
 United Kingdom,Vale of Glamorgan,,GB-VGL,,2020-07-31,-15.0,3.0,,-18.0,-49.0,12.0
+United Kingdom,Vale of Glamorgan,,GB-VGL,,2020-08-01,-22.0,-1.0,,-21.0,-14.0,
+United Kingdom,Vale of Glamorgan,,GB-VGL,,2020-08-02,-18.0,-5.0,153.0,-19.0,-9.0,
 United Kingdom,Warrington,,GB-WRT,,2020-02-15,-4.0,-5.0,-50.0,-9.0,-1.0,2.0
 United Kingdom,Warrington,,GB-WRT,,2020-02-16,0.0,-4.0,-26.0,-1.0,-3.0,1.0
 United Kingdom,Warrington,,GB-WRT,,2020-02-17,13.0,0.0,,3.0,-15.0,2.0
@@ -23234,6 +23503,8 @@ United Kingdom,Warrington,,GB-WRT,,2020-07-28,-16.0,-14.0,,-42.0,-47.0,14.0
 United Kingdom,Warrington,,GB-WRT,,2020-07-29,-16.0,-14.0,,-38.0,-47.0,13.0
 United Kingdom,Warrington,,GB-WRT,,2020-07-30,-16.0,-13.0,,-42.0,-47.0,13.0
 United Kingdom,Warrington,,GB-WRT,,2020-07-31,-26.0,-15.0,,-41.0,-48.0,11.0
+United Kingdom,Warrington,,GB-WRT,,2020-08-01,-28.0,-19.0,47.0,-32.0,-6.0,4.0
+United Kingdom,Warrington,,GB-WRT,,2020-08-02,-26.0,-20.0,108.0,-32.0,-4.0,1.0
 United Kingdom,Warwickshire,,GB-WAR,,2020-02-15,-12.0,-6.0,-44.0,-8.0,-5.0,2.0
 United Kingdom,Warwickshire,,GB-WAR,,2020-02-16,-9.0,-5.0,-38.0,7.0,-3.0,1.0
 United Kingdom,Warwickshire,,GB-WAR,,2020-02-17,8.0,1.0,19.0,5.0,-14.0,2.0
@@ -23402,6 +23673,8 @@ United Kingdom,Warwickshire,,GB-WAR,,2020-07-28,-21.0,-12.0,104.0,-31.0,-49.0,15
 United Kingdom,Warwickshire,,GB-WAR,,2020-07-29,-21.0,-12.0,102.0,-29.0,-49.0,15.0
 United Kingdom,Warwickshire,,GB-WAR,,2020-07-30,-15.0,-6.0,148.0,-30.0,-49.0,14.0
 United Kingdom,Warwickshire,,GB-WAR,,2020-07-31,-25.0,-9.0,120.0,-20.0,-50.0,12.0
+United Kingdom,Warwickshire,,GB-WAR,,2020-08-01,-30.0,-12.0,61.0,-10.0,-11.0,3.0
+United Kingdom,Warwickshire,,GB-WAR,,2020-08-02,-21.0,-10.0,89.0,-11.0,-4.0,2.0
 United Kingdom,West Berkshire,,GB-WBK,,2020-02-15,-17.0,-8.0,-32.0,-18.0,-7.0,
 United Kingdom,West Berkshire,,GB-WBK,,2020-02-16,-14.0,-8.0,-32.0,-17.0,-4.0,
 United Kingdom,West Berkshire,,GB-WBK,,2020-02-17,20.0,1.0,19.0,2.0,-16.0,3.0
@@ -23570,6 +23843,8 @@ United Kingdom,West Berkshire,,GB-WBK,,2020-07-28,-19.0,-16.0,30.0,-29.0,-54.0,1
 United Kingdom,West Berkshire,,GB-WBK,,2020-07-29,-21.0,-15.0,39.0,-25.0,-53.0,16.0
 United Kingdom,West Berkshire,,GB-WBK,,2020-07-30,-19.0,-11.0,53.0,-23.0,-54.0,16.0
 United Kingdom,West Berkshire,,GB-WBK,,2020-07-31,-27.0,-14.0,42.0,-1.0,-52.0,13.0
+United Kingdom,West Berkshire,,GB-WBK,,2020-08-01,-31.0,-18.0,53.0,-4.0,-5.0,
+United Kingdom,West Berkshire,,GB-WBK,,2020-08-02,-28.0,-19.0,45.0,-13.0,3.0,
 United Kingdom,West Dunbartonshire Council,,GB-WDU,,2020-02-15,-10.0,-3.0,,-17.0,0.0,
 United Kingdom,West Dunbartonshire Council,,GB-WDU,,2020-02-16,2.0,-4.0,,-1.0,4.0,
 United Kingdom,West Dunbartonshire Council,,GB-WDU,,2020-02-17,3.0,2.0,,-1.0,2.0,1.0
@@ -23738,6 +24013,8 @@ United Kingdom,West Dunbartonshire Council,,GB-WDU,,2020-07-28,-12.0,-4.0,,-29.0
 United Kingdom,West Dunbartonshire Council,,GB-WDU,,2020-07-29,-10.0,0.0,,-27.0,-45.0,12.0
 United Kingdom,West Dunbartonshire Council,,GB-WDU,,2020-07-30,-16.0,-3.0,,-36.0,-45.0,13.0
 United Kingdom,West Dunbartonshire Council,,GB-WDU,,2020-07-31,-16.0,-4.0,,-20.0,-45.0,10.0
+United Kingdom,West Dunbartonshire Council,,GB-WDU,,2020-08-01,-21.0,-5.0,,-17.0,-14.0,
+United Kingdom,West Dunbartonshire Council,,GB-WDU,,2020-08-02,-3.0,-4.0,,-9.0,-9.0,
 United Kingdom,West Lothian,,GB-WLN,,2020-02-15,-10.0,-6.0,-38.0,-13.0,-4.0,2.0
 United Kingdom,West Lothian,,GB-WLN,,2020-02-16,-1.0,1.0,,-5.0,-4.0,0.0
 United Kingdom,West Lothian,,GB-WLN,,2020-02-17,1.0,-1.0,,-8.0,-16.0,2.0
@@ -23906,6 +24183,8 @@ United Kingdom,West Lothian,,GB-WLN,,2020-07-28,-12.0,2.0,,-35.0,-49.0,13.0
 United Kingdom,West Lothian,,GB-WLN,,2020-07-29,-17.0,-2.0,,-33.0,-49.0,13.0
 United Kingdom,West Lothian,,GB-WLN,,2020-07-30,-14.0,2.0,,-47.0,-50.0,14.0
 United Kingdom,West Lothian,,GB-WLN,,2020-07-31,-30.0,-3.0,,-40.0,-48.0,9.0
+United Kingdom,West Lothian,,GB-WLN,,2020-08-01,-36.0,-2.0,,-40.0,-13.0,3.0
+United Kingdom,West Lothian,,GB-WLN,,2020-08-02,-23.0,-3.0,,-33.0,-12.0,2.0
 United Kingdom,West Midlands,,,,2020-02-15,-10.0,-7.0,-32.0,-11.0,-4.0,2.0
 United Kingdom,West Midlands,,,,2020-02-16,-5.0,-7.0,-30.0,-5.0,-3.0,1.0
 United Kingdom,West Midlands,,,,2020-02-17,7.0,-1.0,8.0,-5.0,-14.0,2.0
@@ -24074,6 +24353,8 @@ United Kingdom,West Midlands,,,,2020-07-28,-27.0,-11.0,66.0,-50.0,-48.0,13.0
 United Kingdom,West Midlands,,,,2020-07-29,-27.0,-11.0,63.0,-49.0,-48.0,13.0
 United Kingdom,West Midlands,,,,2020-07-30,-25.0,-4.0,88.0,-48.0,-48.0,12.0
 United Kingdom,West Midlands,,,,2020-07-31,-35.0,-15.0,61.0,-44.0,-49.0,10.0
+United Kingdom,West Midlands,,,,2020-08-01,-40.0,-18.0,35.0,-38.0,-14.0,3.0
+United Kingdom,West Midlands,,,,2020-08-02,-35.0,-19.0,68.0,-37.0,-8.0,1.0
 United Kingdom,West Sussex,,GB-WSX,,2020-02-15,-15.0,-7.0,-39.0,-12.0,-5.0,3.0
 United Kingdom,West Sussex,,GB-WSX,,2020-02-16,-24.0,-13.0,-46.0,-8.0,-7.0,2.0
 United Kingdom,West Sussex,,GB-WSX,,2020-02-17,9.0,3.0,29.0,7.0,-18.0,3.0
@@ -24242,6 +24523,8 @@ United Kingdom,West Sussex,,GB-WSX,,2020-07-28,-18.0,-9.0,126.0,-55.0,-47.0,14.0
 United Kingdom,West Sussex,,GB-WSX,,2020-07-29,-16.0,-9.0,152.0,-55.0,-47.0,13.0
 United Kingdom,West Sussex,,GB-WSX,,2020-07-30,-12.0,-4.0,191.0,-55.0,-47.0,12.0
 United Kingdom,West Sussex,,GB-WSX,,2020-07-31,-21.0,-7.0,145.0,-53.0,-47.0,11.0
+United Kingdom,West Sussex,,GB-WSX,,2020-08-01,-29.0,-10.0,98.0,-49.0,-11.0,4.0
+United Kingdom,West Sussex,,GB-WSX,,2020-08-02,-26.0,-13.0,118.0,-54.0,-7.0,2.0
 United Kingdom,West Yorkshire,,,,2020-02-15,-9.0,-6.0,-39.0,-10.0,-3.0,2.0
 United Kingdom,West Yorkshire,,,,2020-02-16,-2.0,-6.0,-31.0,-2.0,-1.0,1.0
 United Kingdom,West Yorkshire,,,,2020-02-17,7.0,-2.0,6.0,-2.0,-15.0,3.0
@@ -24410,6 +24693,8 @@ United Kingdom,West Yorkshire,,,,2020-07-28,-27.0,-11.0,52.0,-44.0,-47.0,13.0
 United Kingdom,West Yorkshire,,,,2020-07-29,-27.0,-10.0,66.0,-42.0,-47.0,13.0
 United Kingdom,West Yorkshire,,,,2020-07-30,-26.0,-7.0,66.0,-42.0,-47.0,13.0
 United Kingdom,West Yorkshire,,,,2020-07-31,-35.0,-15.0,67.0,-39.0,-49.0,11.0
+United Kingdom,West Yorkshire,,,,2020-08-01,-39.0,-17.0,46.0,-34.0,-13.0,4.0
+United Kingdom,West Yorkshire,,,,2020-08-02,-31.0,-17.0,63.0,-25.0,-8.0,2.0
 United Kingdom,Wiltshire,,GB-WIL,,2020-02-15,-18.0,-8.0,-46.0,-17.0,-8.0,3.0
 United Kingdom,Wiltshire,,GB-WIL,,2020-02-16,-12.0,-7.0,-38.0,-14.0,-4.0,1.0
 United Kingdom,Wiltshire,,GB-WIL,,2020-02-17,9.0,1.0,25.0,2.0,-19.0,2.0
@@ -24578,6 +24863,8 @@ United Kingdom,Wiltshire,,GB-WIL,,2020-07-28,-16.0,-11.0,96.0,-22.0,-46.0,13.0
 United Kingdom,Wiltshire,,GB-WIL,,2020-07-29,-17.0,-13.0,85.0,-22.0,-46.0,13.0
 United Kingdom,Wiltshire,,GB-WIL,,2020-07-30,-13.0,-7.0,111.0,-20.0,-46.0,12.0
 United Kingdom,Wiltshire,,GB-WIL,,2020-07-31,-19.0,-10.0,87.0,-16.0,-47.0,10.0
+United Kingdom,Wiltshire,,GB-WIL,,2020-08-01,-24.0,-12.0,72.0,-5.0,-10.0,3.0
+United Kingdom,Wiltshire,,GB-WIL,,2020-08-02,-19.0,-17.0,79.0,-8.0,-6.0,2.0
 United Kingdom,Windsor and Maidenhead,,GB-WNM,,2020-02-15,-18.0,-6.0,-44.0,-10.0,-5.0,
 United Kingdom,Windsor and Maidenhead,,GB-WNM,,2020-02-16,-21.0,-4.0,-49.0,-25.0,-6.0,
 United Kingdom,Windsor and Maidenhead,,GB-WNM,,2020-02-17,11.0,5.0,44.0,1.0,-17.0,2.0
@@ -24746,6 +25033,8 @@ United Kingdom,Windsor and Maidenhead,,GB-WNM,,2020-07-28,-27.0,-13.0,82.0,-41.0
 United Kingdom,Windsor and Maidenhead,,GB-WNM,,2020-07-29,-22.0,-12.0,102.0,-37.0,-56.0,17.0
 United Kingdom,Windsor and Maidenhead,,GB-WNM,,2020-07-30,-18.0,-6.0,114.0,-39.0,-57.0,17.0
 United Kingdom,Windsor and Maidenhead,,GB-WNM,,2020-07-31,-25.0,-12.0,101.0,-35.0,-54.0,13.0
+United Kingdom,Windsor and Maidenhead,,GB-WNM,,2020-08-01,-30.0,-15.0,58.0,-15.0,-9.0,
+United Kingdom,Windsor and Maidenhead,,GB-WNM,,2020-08-02,-22.0,-15.0,82.0,-1.0,-4.0,
 United Kingdom,Wokingham,,GB-WOK,,2020-02-15,-8.0,-7.0,-49.0,-19.0,-7.0,
 United Kingdom,Wokingham,,GB-WOK,,2020-02-16,-12.0,-8.0,-52.0,-12.0,-6.0,
 United Kingdom,Wokingham,,GB-WOK,,2020-02-17,15.0,0.0,,4.0,-19.0,2.0
@@ -24914,6 +25203,8 @@ United Kingdom,Wokingham,,GB-WOK,,2020-07-28,-24.0,-24.0,,-52.0,-61.0,20.0
 United Kingdom,Wokingham,,GB-WOK,,2020-07-29,-20.0,-24.0,,-50.0,-60.0,19.0
 United Kingdom,Wokingham,,GB-WOK,,2020-07-30,-16.0,-17.0,,-50.0,-61.0,18.0
 United Kingdom,Wokingham,,GB-WOK,,2020-07-31,-24.0,-24.0,,-47.0,-60.0,15.0
+United Kingdom,Wokingham,,GB-WOK,,2020-08-01,-29.0,-28.0,60.0,-34.0,-3.0,
+United Kingdom,Wokingham,,GB-WOK,,2020-08-02,-21.0,-32.0,88.0,-18.0,4.0,
 United Kingdom,Worcestershire,,GB-WOR,,2020-02-15,-14.0,-7.0,-48.0,-7.0,-3.0,2.0
 United Kingdom,Worcestershire,,GB-WOR,,2020-02-16,-9.0,-6.0,-33.0,4.0,-5.0,1.0
 United Kingdom,Worcestershire,,GB-WOR,,2020-02-17,5.0,2.0,37.0,13.0,-20.0,3.0
@@ -25082,6 +25373,8 @@ United Kingdom,Worcestershire,,GB-WOR,,2020-07-28,-16.0,-11.0,127.0,-23.0,-45.0,
 United Kingdom,Worcestershire,,GB-WOR,,2020-07-29,-17.0,-12.0,120.0,-21.0,-45.0,12.0
 United Kingdom,Worcestershire,,GB-WOR,,2020-07-30,-12.0,-7.0,153.0,-19.0,-45.0,12.0
 United Kingdom,Worcestershire,,GB-WOR,,2020-07-31,-22.0,-14.0,119.0,-4.0,-46.0,10.0
+United Kingdom,Worcestershire,,GB-WOR,,2020-08-01,-29.0,-17.0,73.0,9.0,-11.0,3.0
+United Kingdom,Worcestershire,,GB-WOR,,2020-08-02,-19.0,-18.0,99.0,11.0,-8.0,1.0
 United Kingdom,Wrexham Principal Area,,GB-WRX,,2020-02-15,-15.0,-6.0,-44.0,-16.0,-2.0,3.0
 United Kingdom,Wrexham Principal Area,,GB-WRX,,2020-02-16,-8.0,-8.0,-34.0,-10.0,-5.0,
 United Kingdom,Wrexham Principal Area,,GB-WRX,,2020-02-17,6.0,0.0,,-10.0,-18.0,2.0
@@ -25250,6 +25543,8 @@ United Kingdom,Wrexham Principal Area,,GB-WRX,,2020-07-28,-35.0,-10.0,,-27.0,-43
 United Kingdom,Wrexham Principal Area,,GB-WRX,,2020-07-29,-35.0,-10.0,,-34.0,-43.0,12.0
 United Kingdom,Wrexham Principal Area,,GB-WRX,,2020-07-30,-36.0,-9.0,,-33.0,-43.0,11.0
 United Kingdom,Wrexham Principal Area,,GB-WRX,,2020-07-31,-42.0,-11.0,,-27.0,-44.0,9.0
+United Kingdom,Wrexham Principal Area,,GB-WRX,,2020-08-01,-48.0,-12.0,25.0,-31.0,-20.0,
+United Kingdom,Wrexham Principal Area,,GB-WRX,,2020-08-02,-36.0,-13.0,63.0,-20.0,-12.0,
 United Kingdom,York,,GB-YOR,,2020-02-15,-9.0,-10.0,-27.0,-5.0,-7.0,3.0
 United Kingdom,York,,GB-YOR,,2020-02-16,-1.0,-2.0,-8.0,8.0,-2.0,1.0
 United Kingdom,York,,GB-YOR,,2020-02-17,25.0,4.0,54.0,10.0,-15.0,2.0
@@ -25418,3 +25713,5 @@ United Kingdom,York,,GB-YOR,,2020-07-28,-17.0,-12.0,,-46.0,-55.0,14.0
 United Kingdom,York,,GB-YOR,,2020-07-29,-18.0,-14.0,87.0,-46.0,-55.0,14.0
 United Kingdom,York,,GB-YOR,,2020-07-30,-18.0,-11.0,78.0,-38.0,-56.0,14.0
 United Kingdom,York,,GB-YOR,,2020-07-31,-31.0,-16.0,58.0,-36.0,-55.0,12.0
+United Kingdom,York,,GB-YOR,,2020-08-01,-35.0,-18.0,20.0,-26.0,-22.0,4.0
+United Kingdom,York,,GB-YOR,,2020-08-02,-28.0,-16.0,44.0,-23.0,-22.0,4.0
